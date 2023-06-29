@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fliqpy Phantasm.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- idle -->
+	<SubTexture name="FLP3 idle0000" x="2962" y="0" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0001" x="2962" y="0" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0002" x="10" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0003" x="10" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0004" x="588" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0005" x="588" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0006" x="1166" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0007" x="1166" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0008" x="1744" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0009" x="1744" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0010" x="1744" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0011" x="1744" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0012" x="1744" y="722" width="568" height="576"/>
+	<SubTexture name="FLP3 idle0013" x="1744" y="722" width="568" height="576"/>
+	<!-- sing left -->
+	<SubTexture name="FLP3 M LEFT0000" x="0" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0001" x="0" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0002" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0003" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0004" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0005" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0006" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0007" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0008" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0009" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0010" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0011" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0012" x="552" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M LEFT0013" x="552" y="1356" width="552" height="655"/>
+	<!-- miss left -->
+	<SubTexture name="FLP3 M MISS LEFT0000" x="0" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0001" x="1104" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0002" x="1104" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0003" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0004" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0005" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0006" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0007" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0008" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0009" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0010" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0011" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0012" x="1656" y="1356" width="552" height="655"/>
+	<SubTexture name="FLP3 M MISS LEFT0013" x="1656" y="1356" width="552" height="655"/>
+	<!-- sing down -->
+	<SubTexture name="FLP3 M DOWN0000" x="0" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0001" x="0" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0002" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0003" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0004" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0005" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0006" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0007" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0008" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0009" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0010" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0011" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0012" x="611" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M DOWN0013" x="611" y="2011" width="611" height="622"/>
+	<!-- miss down -->
+	<SubTexture name="FLP3 M MISS DOWN0000" x="0" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0001" x="1222" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0002" x="1222" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0003" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0004" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0005" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0006" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0007" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0008" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0009" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0010" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0011" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0012" x="1833" y="2011" width="611" height="622"/>
+	<SubTexture name="FLP3 M MISS DOWN0013" x="1833" y="2011" width="611" height="622"/>
+	<!-- sing up -->
+	<SubTexture name="FLP3 M UP0000" x="0" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0001" x="0" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0002" x="548" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0003" x="548" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0004" x="1096" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0005" x="1096" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0006" x="548" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0007" x="548" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0008" x="1096" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0009" x="1096" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0010" x="548" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0011" x="548" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0012" x="1096" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M UP0013" x="1096" y="2633" width="548" height="714"/>
+	<!-- miss up -->
+	<SubTexture name="FLP3 M MISS UP0000" x="0" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0001" x="1644" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0002" x="1644" y="2633" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0003" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0004" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0005" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0006" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0007" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0008" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0009" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0010" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0011" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0012" x="0" y="3347" width="548" height="714"/>
+	<SubTexture name="FLP3 M MISS UP0013" x="0" y="3347" width="548" height="714"/>
+	<!-- sing right -->
+	<SubTexture name="FLP3 M RIGHT0000" x="548" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0001" x="548" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0002" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0003" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0004" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0005" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0006" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0007" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0008" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0009" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0010" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0011" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0012" x="1189" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M RIGHT0013" x="1189" y="3347" width="641" height="622"/>
+	<!-- miss right -->
+	<SubTexture name="FLP3 M MISS RIGHT0000" x="548" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0001" x="1830" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0002" x="1830" y="3347" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0003" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0004" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0005" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0006" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0007" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0008" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0009" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0010" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0011" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0012" x="0" y="4061" width="641" height="622"/>
+	<SubTexture name="FLP3 M MISS RIGHT0013" x="0" y="4061" width="641" height="622"/>
+</TextureAtlas>

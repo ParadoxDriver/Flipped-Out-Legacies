@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "flippy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "flippy sing left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				49,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "flippy miss left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "flippy sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-61
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "flippy miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "flippy sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				45
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "flippy miss up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-91,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "flippy sing Right"
+		},
+		{
+			"offsets": [
+				-91,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "flippy miss Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-9
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "flippy dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-9
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "flippy dead confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				26,
+				-9
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "flippy dead loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flippy Phantasm",
+	"position": [
+		-90,
+		100
+	],
+	"healthicon": "phantasm",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		255,
+		167
+	],
+	"camera_position": [
+		70,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

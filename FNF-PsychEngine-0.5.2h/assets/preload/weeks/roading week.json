@@ -1,0 +1,95 @@
+{
+	"storyName": "Covers oh yea",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bazinga",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"crucify",
+			"blood",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"flugh",
+			"TankFlip",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"unknown-suffering",
+			"suicide",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"lockjaw",
+			"fmcrazy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"kapowdays",
+			"crazy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"eye-to-eye",
+			"fliqpy-meets",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"phantasm",
+			"phantasm",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Roading Week",
+	"hiddenUntilUnlocked": false
+}

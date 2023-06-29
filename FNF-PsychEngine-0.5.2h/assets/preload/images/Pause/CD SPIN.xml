@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CD SPIN.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CD SPIN0000" x="5" y="5" width="340" height="339"/>
+	<SubTexture name="CD SPIN0001" x="350" y="5" width="340" height="339"/>
+	<SubTexture name="CD SPIN0002" x="695" y="5" width="340" height="339"/>
+	<SubTexture name="CD SPIN0003" x="1040" y="5" width="340" height="339"/>
+	<SubTexture name="CD SPIN0004" x="1385" y="5" width="340" height="339"/>
+	<SubTexture name="CD SPIN0005" x="5" y="349" width="340" height="339"/>
+	<SubTexture name="CD SPIN0006" x="350" y="349" width="340" height="339"/>
+	<SubTexture name="CD SPIN0007" x="695" y="349" width="340" height="339"/>
+</TextureAtlas>

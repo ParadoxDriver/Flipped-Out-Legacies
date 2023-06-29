@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "bgbonus",
+	"idle_anim": "bgbonus",
+	"position": [
+		176,
+		83
+	],
+	"scale": 1,
+	"image": "Menu_Disorder"
+}

@@ -1,0 +1,59 @@
+{
+	"storyName": "A War Has Broken Out",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "guerrilla",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"triggered-guerrilla",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"slaughter-guerrilla",
+			"blood",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"overkill-guerrilla",
+			"fmcrazy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"fallout-guerrilla",
+			"FLP",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"FullMetal_story",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Guerrilla Week"
+}

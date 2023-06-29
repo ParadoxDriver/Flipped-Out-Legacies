@@ -1,0 +1,4 @@
+used in bad thoughts for da sick parts lol
+
+Value 1: setting to 1 will enable it.
+Value 2: setting to 1 or 0 will disable it. 

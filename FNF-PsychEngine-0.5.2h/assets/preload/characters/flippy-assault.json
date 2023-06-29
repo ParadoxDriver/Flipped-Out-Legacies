@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FLP3 M DOWN"
+		},
+		{
+			"offsets": [
+				85,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FLP3 M LEFT"
+		},
+		{
+			"offsets": [
+				-7,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FLP3 M RIGHT"
+		},
+		{
+			"offsets": [
+				28,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FLP3 M UP"
+		},
+		{
+			"offsets": [
+				-55,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FLP3 idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FLIPPY_assault",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		255,
+		167
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

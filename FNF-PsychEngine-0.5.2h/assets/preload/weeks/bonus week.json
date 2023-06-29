@@ -1,0 +1,77 @@
+{
+	"storyName": "New Challengers Approaching",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "bonus",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"compass",
+			"classic",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"tags",
+			"flippyemputado",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"slasher",
+			"minus",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"disturbed",
+			"minus",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"disclosed",
+			"insane",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hiding",
+			"lmao",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"Bonus_story",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Bonus Week"
+}

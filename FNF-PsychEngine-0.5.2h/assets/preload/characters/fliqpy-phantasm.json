@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FLP3 idle"
+		},
+		{
+			"offsets": [
+				29,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FLP3 M RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				45
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "FLP3 M MISS RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FLP3 M DOWN"
+		},
+		{
+			"offsets": [
+				7,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "FLP3 M MISS DOWN"
+		},
+		{
+			"offsets": [
+				-109,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FLP3 M UP"
+		},
+		{
+			"offsets": [
+				-109,
+				136
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "FLP3 M UP"
+		},
+		{
+			"offsets": [
+				-109,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "FLP3 M MISS UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				77
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FLP3 M LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				77
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "FLP3 M MISS LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fliqpy Phantasm",
+	"position": [
+		-160,
+		180
+	],
+	"healthicon": "crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		255,
+		167
+	],
+	"camera_position": [
+		100,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

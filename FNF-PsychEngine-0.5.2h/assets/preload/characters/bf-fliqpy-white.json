@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FLIPPY Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				22
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FLP M RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				39,
+				22
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "FLP M RIGHT",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-144
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FLP M DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				77
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FLP M UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				91
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FLP M LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flippy-Cumeado",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "flippy",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		255,
+		167
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

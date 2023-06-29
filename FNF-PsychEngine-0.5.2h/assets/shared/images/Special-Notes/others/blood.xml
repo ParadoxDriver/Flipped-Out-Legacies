@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blood.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blood0000" x="0" y="0" width="100" height="82" pivotX="22.35" pivotY="12.15" frameX="-289" frameY="-280" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0001" x="100" y="0" width="212" height="222" frameX="-230" frameY="-200" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0002" x="312" y="0" width="576" height="634" frameX="-22" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0003" x="888" y="0" width="613" height="653" frameX="-4" frameY="-5" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0004" x="1501" y="0" width="622" height="663"/>
+	<SubTexture name="blood0005" x="2123" y="0" width="622" height="663"/>
+	<SubTexture name="blood0006" x="2745" y="0" width="611" height="651" frameX="-5" frameY="-6" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0007" x="3356" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0008" x="3956" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0009" x="3956" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0010" x="3956" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0011" x="3956" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0012" x="3956" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0013" x="4556" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0014" x="5156" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0015" x="5756" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0016" x="6356" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0017" x="6956" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0018" x="7556" y="0" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0019" x="0" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0020" x="600" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0021" x="1200" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0022" x="1800" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0023" x="2400" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0024" x="3000" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0025" x="3600" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0026" x="4200" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0027" x="4800" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0028" x="5400" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0029" x="6000" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0030" x="6600" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0031" x="7200" y="663" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0032" x="0" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0033" x="600" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0034" x="1200" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0035" x="1800" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0036" x="2400" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0037" x="3000" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0038" x="3600" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0039" x="4200" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0040" x="4800" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0041" x="5400" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0042" x="6000" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0043" x="6600" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0044" x="7200" y="1302" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0045" x="0" y="1941" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0046" x="600" y="1941" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+	<SubTexture name="blood0047" x="1200" y="1941" width="600" height="639" frameX="-11" frameY="-12" frameWidth="622" frameHeight="663"/>
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"shock-shanked",
+			"alley",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"lost-shell",
+			"sexo",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"megalophobia",
+			"mega",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"talasofobia",
+			"undown",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Mashup Week Part 2",
+	"weekName": "Genesis Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

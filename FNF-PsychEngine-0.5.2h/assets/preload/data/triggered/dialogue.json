@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noRight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This trip is a nice change of pace from our usual dates."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noleft",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, my family and I used to hang out here a ton."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noright",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's really nice and it smells good here, though I'm surprised you can drive a car."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noleft",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heh, I'm full of Suprises."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noleft",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Where did you last see it, Flippy?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noright",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, it was somewhere around these trees and bushes, but it's probably best if we split up so we can find it faster. "
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noright",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll give you a signal if I happen to find it."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noleft",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alrighty, I'll go tell the others then!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noleft",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah shit, this mic won't work."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noright",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Maybe it's worn from all the adventures you've had. Perhaps it's time to get a new one?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "noleft",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah, don't worry, I can fix it. Probably."
+		}
+	]
+}

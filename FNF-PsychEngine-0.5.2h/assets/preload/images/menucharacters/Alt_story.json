@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "bgalt",
+	"idle_anim": "bgalt",
+	"position": [
+		176,
+		83
+	],
+	"scale": 1,
+	"image": "Menu_Alt"
+}

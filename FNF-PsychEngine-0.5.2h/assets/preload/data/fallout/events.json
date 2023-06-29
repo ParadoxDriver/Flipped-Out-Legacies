@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 1.7,
+		"stage": "blood night",
+		"player1": "bf-fallout",
+		"player2": "flippy-fallout",
+		"player3": null,
+		"events": [
+			[
+				27042.2535211268,
+				[
+					[
+						"FlashUnHud",
+						"1.2",
+						"1"
+					],
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0"
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-ghost"
+					]
+				]
+			],
+			[
+				81126.7605633803,
+				[
+					[
+						"FlashUnHud",
+						"1.4",
+						"1"
+					],
+					[
+						"Cinematics",
+						"1",
+						"0.7"
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-post-trauma"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-tiger-flashback"
+					]
+				]
+			],
+			[
+				108169.014084507,
+				[
+					[
+						"FlashUnHud",
+						"1.4",
+						"1"
+					],
+					[
+						"Cinematics",
+						"2",
+						"0.7"
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-ghost"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-fallout"
+					]
+				]
+			],
+			[
+				162253.52112676,
+				[
+					[
+						"FlashUnHud",
+						"1.4",
+						"1"
+					],
+					[
+						"Cinematics",
+						"1",
+						"1.7"
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-fallout"
+					]
+				]
+			],
+			[
+				164049.295774648,
+				[
+					[
+						"Hey!",
+						"BF",
+						"0"
+					]
+				]
+			],
+			[
+				193309.859154929,
+				[
+					[
+						"Camera Switch",
+						"0.01",
+						"off"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 142,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Fallout"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FLIPPY Idle"
+		},
+		{
+			"offsets": [
+				66,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FLP M UP"
+		},
+		{
+			"offsets": [
+				63,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FLP M RIGHT"
+		},
+		{
+			"offsets": [
+				131,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FLP M LEFT"
+		},
+		{
+			"offsets": [
+				-9,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FLP M DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FLIPPY_Cicerega",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "flippy",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		255,
+		167
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

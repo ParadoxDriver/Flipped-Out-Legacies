@@ -1,0 +1,86 @@
+{
+	"storyName": "FreePlay Songs",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"lsd",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"conflagration",
+			"blood",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"bloodbath",
+			"blood",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"arsenal",
+			"kapow",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"bombshell",
+			"classic",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"outbreak",
+			"flippyemputado",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"playdate",
+			"minus",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Track Additional Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,284 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "cave",
+		"player1": "bf-flippy",
+		"player2": "yourselffps",
+		"player3": null,
+		"events": [
+			[
+				58010.6951871658,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"0.7"
+					]
+				]
+			],
+			[
+				80598.9304812834,
+				[
+					[
+						"FlashUnHud",
+						"2",
+						"1"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"yourself"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-flippy"
+					]
+				]
+			],
+			[
+				86245.9893048128,
+				[
+					[
+						"Wilter Camera Zoom",
+						"0.94",
+						""
+					]
+				]
+			],
+			[
+				91893.0481283422,
+				[
+					[
+						"Wilter Camera Zoom",
+						"0.94",
+						""
+					]
+				]
+			],
+			[
+				103187.165775401,
+				[
+					[
+						"FlashUnHud",
+						"1",
+						"0"
+					],
+					[
+						"Cam Boom Speed",
+						"2",
+						"3"
+					],
+					[
+						"Cinematics",
+						"1",
+						"0.9"
+					]
+				]
+			],
+			[
+				114481.28342246,
+				[
+					[
+						"FlashUnHud",
+						"1",
+						"1"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					],
+					[
+						"Cinematics",
+						"2",
+						"0.8"
+					]
+				]
+			],
+			[
+				120128.342245989,
+				[
+					[
+						"Wilter Camera Zoom",
+						"0.94",
+						""
+					]
+				]
+			],
+			[
+				131422.459893048,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.9"
+					]
+				]
+			],
+			[
+				136981.28342246,
+				[
+					[
+						"Cinematics",
+						"2",
+						"0.7"
+					]
+				]
+			],
+			[
+				137069.518716577,
+				[
+					[
+						"FlashUnHud",
+						"2",
+						"0"
+					],
+					[
+						"Change Character",
+						"dad",
+						"yourselffps"
+					]
+				]
+			],
+			[
+				145540.106951871,
+				[
+					[
+						"Shader",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				148363.636363636,
+				[
+					[
+						"Shader",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				173775.401069518,
+				[
+					[
+						"FlashUnHud",
+						"2",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"yourself"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				185069.518716577,
+				[
+					[
+						"Wilter Camera Zoom",
+						"0.94",
+						""
+					]
+				]
+			],
+			[
+				196363.636363636,
+				[
+					[
+						"Wilter Camera Zoom",
+						"0.55",
+						"0"
+					]
+				]
+			],
+			[
+				202010.695187165,
+				[
+					[
+						"Wilter Camera Zoom",
+						"0.94",
+						"0"
+					]
+				]
+			],
+			[
+				213304.812834224,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.9"
+					]
+				]
+			],
+			[
+				218951.871657754,
+				[
+					[
+						"Wilter Camera Zoom",
+						"0.94",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"4",
+						"0.00001"
+					]
+				]
+			],
+			[
+				221863.636363636,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				221951.871657754,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				222040.106951871,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Eye-to-Eye"
+	}
+}

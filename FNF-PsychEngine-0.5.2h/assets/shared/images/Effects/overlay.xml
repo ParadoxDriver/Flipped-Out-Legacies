@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="overlay2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Overlay0000" x="30" y="30" width="1280" height="720" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0001" x="1340" y="30" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0002" x="2650" y="30" width="1284" height="720"/>
+	<SubTexture name="Overlay0003" x="3964" y="30" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0004" x="5274" y="30" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0005" x="6584" y="30" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0006" x="30" y="780" width="1284" height="720"/>
+	<SubTexture name="Overlay0007" x="1344" y="780" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0008" x="2654" y="780" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0009" x="3964" y="780" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0010" x="5274" y="780" width="1284" height="720"/>
+	<SubTexture name="Overlay0011" x="6588" y="780" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0012" x="30" y="1530" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0013" x="1340" y="1530" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0014" x="2650" y="1530" width="1284" height="720"/>
+	<SubTexture name="Overlay0015" x="3964" y="1530" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0016" x="5274" y="1530" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0017" x="6584" y="1530" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0018" x="30" y="2280" width="1284" height="720"/>
+	<SubTexture name="Overlay0019" x="1344" y="2280" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0020" x="2654" y="2280" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0021" x="3964" y="2280" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0022" x="5274" y="2280" width="1284" height="720"/>
+	<SubTexture name="Overlay0023" x="6588" y="2280" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0024" x="30" y="3030" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0025" x="1340" y="3030" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0026" x="2650" y="3030" width="1284" height="720"/>
+	<SubTexture name="Overlay0027" x="3964" y="3030" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0028" x="5274" y="3030" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0029" x="6584" y="3030" width="1280" height="720" frameX="0" frameY="0" frameWidth="1284" frameHeight="720"/>
+	<SubTexture name="Overlay0030" x="30" y="3780" width="1284" height="720"/>
+</TextureAtlas>

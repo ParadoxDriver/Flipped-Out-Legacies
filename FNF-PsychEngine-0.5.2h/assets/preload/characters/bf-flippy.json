@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "flippy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "flippy sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-24
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "flippy miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "flippy sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				-20
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "flippy miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				32
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "flippy sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				32
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "flippy miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				33
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "flippy sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				33
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "flippy miss right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flippy Playable",
+	"position": [
+		-100,
+		150
+	],
+	"healthicon": "flippy-meets",
+	"flip_x": true,
+	"healthbar_colors": [
+		200,
+		221,
+		174
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

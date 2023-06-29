@@ -1,0 +1,170 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SINK IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SINK RIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-32
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS SINK DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				222
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SINK UP",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SINK DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				191,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SINK LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				16,
+				516
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISS SINK UP"
+		},
+		{
+			"offsets": [
+				253,
+				266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISS SINK LEFT"
+		},
+		{
+			"offsets": [
+				77,
+				316
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISS SINK RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sink",
+	"position": [
+		190,
+		40
+	],
+	"healthicon": "sink_icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		48,
+		138,
+		104
+	],
+	"camera_position": [
+		330,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

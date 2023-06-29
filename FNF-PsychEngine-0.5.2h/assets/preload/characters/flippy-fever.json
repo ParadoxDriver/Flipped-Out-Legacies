@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FLIPPY Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FLP M UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FLP M RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FLP M LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-145
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FLP M DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FLIPPY_fever",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "flippy",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		255,
+		167
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "redbg",
+	"idle_anim": "redbg",
+	"position": [
+		176,
+		83
+	],
+	"scale": 1,
+	"image": "Menu_Bonus"
+}

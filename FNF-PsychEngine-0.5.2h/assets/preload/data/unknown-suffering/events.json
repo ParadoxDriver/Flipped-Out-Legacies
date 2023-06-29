@@ -1,0 +1,244 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "bobux",
+		"player1": "bf-retro",
+		"player2": "flip-suicide",
+		"player3": null,
+		"events": [
+			[
+				225,
+				[
+					[
+						"Scroll Speed Change",
+						"2.6",
+						""
+					]
+				]
+			],
+			[
+				2100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				2250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				4650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				6900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				7050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				9300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				9450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"FlashUnHud",
+						"0.8",
+						"0"
+					],
+					[
+						"Scroll Speed Change",
+						"3",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"suicide-bear"
+					]
+				]
+			],
+			[
+				48600,
+				[
+					[
+						"FlashUnHud",
+						"1",
+						"0"
+					],
+					[
+						"badapplelol",
+						"a",
+						"0.01"
+					]
+				]
+			],
+			[
+				58200,
+				[
+					[
+						"FlashUnHud",
+						"0.8",
+						"1"
+					],
+					[
+						"badapplelol",
+						"b",
+						"0.01"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Red Stuff",
+						"0.8",
+						"1.2"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				70800,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.5",
+						"0"
+					]
+				]
+			],
+			[
+				72450,
+				[
+					[
+						"Red Stuff",
+						"0",
+						"0.8"
+					]
+				]
+			],
+			[
+				72600,
+				[
+					[
+						"FlashUnHud",
+						"0.8",
+						"1"
+					],
+					[
+						"Shader",
+						"1",
+						"1"
+					],
+					[
+						"Cinematics",
+						"1",
+						"0.7"
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"FlashUnHud",
+						"0.8",
+						"1"
+					],
+					[
+						"Shader",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				120675,
+				[
+					[
+						"Camera Switch",
+						"0.01",
+						"off"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-retro",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Unknown-Suffering"
+	}
+}

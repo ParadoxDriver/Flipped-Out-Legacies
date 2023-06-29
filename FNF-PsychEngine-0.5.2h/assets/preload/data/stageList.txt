@@ -1,0 +1,43 @@
+stage
+camp
+blood
+blood foggy
+blood fire
+blood night
+nevada
+nevada-burnt
+army
+army-nublar
+army-fire
+inner-battle
+camp-fullmetal
+blood-fullmetal
+fire-fullmetal
+burnt-fullmetal
+army-fullmetal
+htf-fullmetal
+treehouse-fullmetal
+htf
+fade-camp
+treehouse-slasher
+treehouse
+insanity
+camp-retro
+camp-invert
+army-combat
+night-camp
+fright
+defeat-army
+street
+alleyway
+void_2
+aurora-stage
+sunkstage
+fever-camp
+fever-blood
+bobux
+nevScary
+last-assault
+cave
+fleet
+old-camp

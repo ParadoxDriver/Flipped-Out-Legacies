@@ -1,0 +1,5 @@
+Sets how much it zooms.
+
+Value 1: 0.95
+
+Value 2: 0

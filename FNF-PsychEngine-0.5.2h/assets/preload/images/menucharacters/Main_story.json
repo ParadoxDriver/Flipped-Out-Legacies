@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "bglol",
+	"idle_anim": "bglol",
+	"position": [
+		176,
+		83
+	],
+	"scale": 1,
+	"image": "Menu_Main"
+}

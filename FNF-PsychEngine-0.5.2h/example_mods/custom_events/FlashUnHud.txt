@@ -1,0 +1,8 @@
+Smoothly sets the Opponent's
+transparency value.
+
+Value 1: Duration
+Value 2: 0 is Black, 1 is White
+
+Script by zoe
+Modified for v2 by paradox

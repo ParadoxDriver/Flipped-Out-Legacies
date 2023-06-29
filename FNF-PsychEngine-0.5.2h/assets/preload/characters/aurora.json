@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-16
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Aurora Down"
+		},
+		{
+			"offsets": [
+				386,
+				350
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Aurora Up"
+		},
+		{
+			"offsets": [
+				204,
+				-2
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Aurora Idle"
+		},
+		{
+			"offsets": [
+				467,
+				28
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Aurora Right"
+		},
+		{
+			"offsets": [
+				-90,
+				181
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Aurora Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aurora",
+	"position": [
+		-310,
+		-520
+	],
+	"healthicon": "aurora",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		155,
+		155
+	],
+	"camera_position": [
+		100,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

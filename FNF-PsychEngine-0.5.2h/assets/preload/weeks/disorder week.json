@@ -1,0 +1,59 @@
+{
+	"storyName": "Two Enemy Visions",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "soulless",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"flashback",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"shell-shanked",
+			"blood",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"annihilation",
+			"blood",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"double-whammy",
+			"crazy",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"Disorder_story",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Disorder Week"
+}

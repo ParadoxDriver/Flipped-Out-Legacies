@@ -1,0 +1,439 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "army",
+		"player1": "tigerbf",
+		"player2": "flippy-kapow",
+		"player3": null,
+		"events": [
+			[
+				19973.6842105263,
+				[
+					[
+						"Red Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				20210.5263157895,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.7"
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				40421.0526315789,
+				[
+					[
+						"Set Cam Zoom",
+						"0.63",
+						""
+					],
+					[
+						"Cinematics",
+						"2",
+						"0.7"
+					]
+				]
+			],
+			[
+				63157.8947368421,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			],
+			[
+				63789.4736842105,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-kapow"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tigerbf"
+					]
+				]
+			],
+			[
+				68210.5263157894,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			],
+			[
+				68842.1052631578,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-kapow"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tigerbf"
+					]
+				]
+			],
+			[
+				73263.1578947368,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			],
+			[
+				73894.7368421052,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-kapow"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tigerbf"
+					]
+				]
+			],
+			[
+				78315.7894736841,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			],
+			[
+				78947.3684210526,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-kapow"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tigerbf"
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"Add Camera Zoom",
+						"0.27",
+						"0"
+					]
+				]
+			],
+			[
+				104842.105263158,
+				[
+					[
+						"Red Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				105236.842105263,
+				[
+					[
+						"Red Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				106105.263157895,
+				[
+					[
+						"Red Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				108631.578947368,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			],
+			[
+				109263.157894737,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-kapow"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tigerbf"
+					]
+				]
+			],
+			[
+				113684.210526316,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			],
+			[
+				114315.789473684,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-kapow"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tigerbf"
+					]
+				]
+			],
+			[
+				118736.842105263,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			],
+			[
+				119368.421052631,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-kapow"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tigerbf"
+					]
+				]
+			],
+			[
+				123789.47368421,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			],
+			[
+				124421.052631579,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-kapow"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tigerbf"
+					]
+				]
+			],
+			[
+				136421.052631579,
+				[
+					[
+						"Red Flash Camera",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"flippy-blood"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-carry"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Arsenal"
+	}
+}

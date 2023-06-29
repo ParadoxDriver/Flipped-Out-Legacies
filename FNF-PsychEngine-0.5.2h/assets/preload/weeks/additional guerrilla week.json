@@ -1,0 +1,68 @@
+{
+	"storyName": "All Metal Bloody",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"triggered-remastered",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"slaughter-guerrilla-old",
+			"blood",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"kapow-guerrilla",
+			"kapow",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"compass-guerrilla",
+			"fmalt",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"disturbed-guerrilla",
+			"minus",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Additional Guerrilla Week",
+	"hiddenUntilUnlocked": false
+}

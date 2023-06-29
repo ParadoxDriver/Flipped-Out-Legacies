@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "camp",
+		"player1": "bf-carry",
+		"player2": "flippy",
+		"player3": null,
+		"events": [
+			[
+				145526.315789474,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				145789.47368421,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				146184.210526316,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					]
+				]
+			],
+			[
+				146578.947368421,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				146842.105263158,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				147236.842105263,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					]
+				]
+			],
+			[
+				147763.157894737,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					]
+				]
+			],
+			[
+				148289.47368421,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					]
+				]
+			],
+			[
+				148552.631578947,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					]
+				]
+			],
+			[
+				148815.789473684,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					]
+				]
+			],
+			[
+				149078.947368421,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					]
+				]
+			],
+			[
+				149342.105263158,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						"0.1"
+					]
+				]
+			],
+			[
+				230263.157894737,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				230526.315789474,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				230789.473684211,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				231052.631578948,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 114,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Funny"
+	}
+}

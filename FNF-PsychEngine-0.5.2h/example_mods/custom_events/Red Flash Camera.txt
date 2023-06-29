@@ -1,0 +1,6 @@
+Mad Flash Hud
+
+Smoothly sets the Opponent's
+transparency value.
+
+Value 1: Duration

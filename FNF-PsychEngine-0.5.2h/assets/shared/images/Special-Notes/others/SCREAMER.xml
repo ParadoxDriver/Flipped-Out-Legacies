@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SCREAMER.png">
+<SubTexture name="SCREAMER instancia 0000" x="0" y="0" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0001" x="959" y="0" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0002" x="0" y="541" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0003" x="959" y="541" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0004" x="0" y="1082" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0005" x="959" y="1082" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0006" x="1918" y="0" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0007" x="1918" y="541" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0008" x="1918" y="1082" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0009" x="0" y="1623" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0010" x="959" y="1623" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0011" x="1918" y="1623" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0012" x="0" y="2164" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0013" x="959" y="2164" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0014" x="1918" y="2164" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0015" x="2877" y="0" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0016" x="2877" y="541" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0017" x="2877" y="1082" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0018" x="2877" y="1623" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+<SubTexture name="SCREAMER instancia 0019" x="2877" y="2164" width="959" height="541" frameX="0" frameY="0" frameWidth="959" frameHeight="541" />
+</TextureAtlas>

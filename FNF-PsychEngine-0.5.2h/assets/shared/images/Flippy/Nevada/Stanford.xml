@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stanford.png">
+<SubTexture name="stanford land0000" x="0" y="0" width="346" height="460" frameX="0" frameY="0" frameWidth="346" frameHeight="460" />
+<SubTexture name="stanford land0001" x="346" y="0" width="346" height="460" frameX="0" frameY="0" frameWidth="346" frameHeight="460" />
+<SubTexture name="stanford land0002" x="692" y="0" width="346" height="460" frameX="0" frameY="0" frameWidth="346" frameHeight="460" />
+<SubTexture name="stanford land0003" x="1038" y="0" width="346" height="460" frameX="0" frameY="0" frameWidth="346" frameHeight="460" />
+<SubTexture name="stanford land0004" x="0" y="460" width="346" height="460" frameX="0" frameY="0" frameWidth="346" frameHeight="460" />
+<SubTexture name="stanford land0005" x="346" y="460" width="346" height="460" frameX="0" frameY="0" frameWidth="346" frameHeight="460" />
+<SubTexture name="stanford dance0000" x="692" y="460" width="343" height="460" frameX="0" frameY="0" frameWidth="343" frameHeight="460" />
+<SubTexture name="stanford dance0001" x="1035" y="460" width="343" height="460" frameX="0" frameY="0" frameWidth="343" frameHeight="460" />
+<SubTexture name="stanford dance0002" x="0" y="920" width="343" height="460" frameX="0" frameY="0" frameWidth="343" frameHeight="460" />
+<SubTexture name="stanford dance0003" x="343" y="920" width="343" height="460" frameX="0" frameY="0" frameWidth="343" frameHeight="460" />
+<SubTexture name="stanford dance0004" x="686" y="920" width="343" height="460" frameX="0" frameY="0" frameWidth="343" frameHeight="460" />
+<SubTexture name="stanford dance0005" x="1029" y="920" width="343" height="460" frameX="0" frameY="0" frameWidth="343" frameHeight="460" />
+<SubTexture name="stanford dance0006" x="0" y="1380" width="343" height="460" frameX="0" frameY="0" frameWidth="343" frameHeight="460" />
+<SubTexture name="stanford dance0007" x="343" y="1380" width="343" height="460" frameX="0" frameY="0" frameWidth="343" frameHeight="460" />
+<SubTexture name="stanford shoot0000" x="686" y="1380" width="493" height="460" frameX="150" frameY="0" frameWidth="493" frameHeight="460" />
+<SubTexture name="stanford shoot0001" x="1179" y="1380" width="493" height="460" frameX="150" frameY="0" frameWidth="493" frameHeight="460" />
+<SubTexture name="stanford shoot0002" x="0" y="1840" width="493" height="460" frameX="150" frameY="0" frameWidth="493" frameHeight="460" />
+<SubTexture name="stanford shoot0003" x="493" y="1840" width="493" height="460" frameX="150" frameY="0" frameWidth="493" frameHeight="460" />
+<SubTexture name="stanford shoot0004" x="986" y="1840" width="493" height="460" frameX="150" frameY="0" frameWidth="493" frameHeight="460" />
+<SubTexture name="stanford shoot0005" x="1479" y="1840" width="493" height="460" frameX="150" frameY="0" frameWidth="493" frameHeight="460" />
+<SubTexture name="stanford shoot0006" x="0" y="2300" width="493" height="460" frameX="150" frameY="0" frameWidth="493" frameHeight="460" />
+<SubTexture name="stanford shoot0007" x="493" y="2300" width="493" height="460" frameX="150" frameY="0" frameWidth="493" frameHeight="460" />
+</TextureAtlas>

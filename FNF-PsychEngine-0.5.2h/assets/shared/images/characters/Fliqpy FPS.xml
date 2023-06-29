@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fliqpy FPS.png">
+<SubTexture name="fliqpy fps idle0000" x="0" y="0" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0001" x="340" y="0" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0002" x="680" y="0" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0003" x="1020" y="0" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0004" x="1360" y="0" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0005" x="0" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0006" x="340" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0007" x="680" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0008" x="1020" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0009" x="1020" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0010" x="1020" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0011" x="1020" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0012" x="1020" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps idle0013" x="1020" y="151" width="340" height="151" frameX="0" frameY="0" frameWidth="340" frameHeight="151" />
+<SubTexture name="fliqpy fps sing left0000" x="1360" y="151" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0001" x="0" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0002" x="314" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0003" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0004" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0005" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0006" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0007" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0008" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0009" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0010" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0011" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0012" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing left0013" x="628" y="447" width="314" height="296" frameX="0" frameY="0" frameWidth="314" frameHeight="296" />
+<SubTexture name="fliqpy fps sing down0000" x="942" y="447" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0001" x="1261" y="447" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0002" x="0" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0003" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0004" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0005" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0006" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0007" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0008" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0009" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0010" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0011" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0012" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing down0013" x="319" y="743" width="319" height="152" frameX="0" frameY="0" frameWidth="319" frameHeight="152" />
+<SubTexture name="fliqpy fps sing up0000" x="638" y="743" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0001" x="957" y="743" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0002" x="1276" y="743" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0003" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0004" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0005" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0006" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0007" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0008" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0009" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0010" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0011" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0012" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing up0013" x="0" y="895" width="319" height="125" frameX="0" frameY="0" frameWidth="319" frameHeight="125" />
+<SubTexture name="fliqpy fps sing right0000" x="319" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0001" x="658" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0002" x="997" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0003" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0004" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0005" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0006" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0007" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0008" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0009" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0010" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0011" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0012" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+<SubTexture name="fliqpy fps sing right0013" x="1336" y="895" width="339" height="210" frameX="0" frameY="0" frameWidth="339" frameHeight="210" />
+</TextureAtlas>

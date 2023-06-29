@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fliqpy fps idle"
+		},
+		{
+			"offsets": [
+				170,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fliqpy fps sing left"
+		},
+		{
+			"offsets": [
+				-131,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fliqpy fps sing right"
+		},
+		{
+			"offsets": [
+				-10,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fliqpy fps sing down"
+		},
+		{
+			"offsets": [
+				-9,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fliqpy fps sing up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fliqpy FPS",
+	"position": [
+		450,
+		300
+	],
+	"healthicon": "fliqpy-meets",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

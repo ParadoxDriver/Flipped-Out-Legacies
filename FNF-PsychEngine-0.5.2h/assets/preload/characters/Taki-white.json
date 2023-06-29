@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				101
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "takiidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				43,
+				86
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "takileft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				43,
+				86
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "takileft"
+		},
+		{
+			"offsets": [
+				-20,
+				-79
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "takidown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-79
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				7,
+				8,
+				9
+			],
+			"name": "takidown"
+		},
+		{
+			"offsets": [
+				-23,
+				106
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "takiup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				106
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				19,
+				20,
+				21
+			],
+			"name": "takiup"
+		},
+		{
+			"offsets": [
+				-22,
+				94
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "takiright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-22,
+				94
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				11,
+				12,
+				13
+			],
+			"name": "takiright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Taki-Cumeada",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "taki",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		68,
+		112
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1.1
+}

@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Flippy Phantasm.png">
+<!-- Idle -->
+<SubTexture name="flippy idle0000" x="0" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0001" x="0" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0002" x="517" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0003" x="517" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0004" x="1034" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0005" x="1034" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0006" x="1551" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0007" x="1551" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0008" x="2068" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0009" x="2068" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0010" x="2068" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0011" x="2068" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0012" x="2068" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<SubTexture name="flippy idle0013" x="2068" y="0" width="517" height="665" frameX="0" frameY="0" frameWidth="517" frameHeight="665" />
+<!-- sing left -->
+<SubTexture name="flippy sing left0000" x="0" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0001" x="0" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0002" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0003" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0004" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0005" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0006" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0007" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0008" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0009" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0010" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0011" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0012" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy sing left0013" x="552" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<!-- miss left -->
+<SubTexture name="flippy miss left0000" x="0" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0001" x="1104" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0002" x="1104" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0003" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0004" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0005" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0006" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0007" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0008" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0009" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0010" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0011" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0012" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<SubTexture name="flippy miss left0013" x="1656" y="665" width="552" height="625" frameX="0" frameY="0" frameWidth="552" frameHeight="625" />
+<!-- sing down -->
+<SubTexture name="flippy sing down0000" x="2208" y="665" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0001" x="2208" y="665" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0002" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0003" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0004" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0006" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0007" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0008" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0009" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0010" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0011" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0012" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy sing down0013" x="0" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<!-- miss down -->
+<SubTexture name="flippy miss down0000" x="2208" y="665" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0001" x="580" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0002" x="580" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0003" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0004" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0005" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0006" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0007" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0008" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0009" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0010" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0011" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0012" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<SubTexture name="flippy miss down0013" x="1160" y="1290" width="580" height="602" frameX="0" frameY="0" frameWidth="580" frameHeight="602" />
+<!-- sing up -->
+<SubTexture name="flippy sing up0000" x="1740" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0001" x="1740" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0002" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0003" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0004" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0005" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0006" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0007" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0008" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0009" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0010" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0011" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0012" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy sing up0013" x="2261" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<!-- miss up -->
+<SubTexture name="flippy miss up0000" x="1740" y="1290" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0001" x="0" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0002" x="0" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0003" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0004" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0005" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0006" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0007" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0008" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0009" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0010" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0011" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0012" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<SubTexture name="flippy miss up0013" x="521" y="1995" width="521" height="705" frameX="0" frameY="0" frameWidth="521" frameHeight="705" />
+<!-- sing right -->
+<SubTexture name="flippy sing Right0000" x="1042" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0001" x="1042" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0002" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0003" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0004" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0005" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0006" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0007" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0008" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0009" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0010" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0011" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0012" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy sing Right0013" x="1532" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<!-- miss right -->
+<SubTexture name="flippy miss Right0000" x="1042" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0001" x="2022" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0002" x="2022" y="1995" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0003" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0004" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0005" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0006" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0007" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0008" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0009" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0010" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0011" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0012" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<SubTexture name="flippy miss Right0013" x="0" y="2700" width="490" height="667" frameX="0" frameY="0" frameWidth="490" frameHeight="667" />
+<!-- dies -->
+<SubTexture name="flippy dies0000" x="490" y="2700" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0001" x="490" y="2700" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0002" x="1025" y="2700" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0003" x="1025" y="2700" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0004" x="1560" y="2700" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0005" x="1560" y="2700" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0006" x="2095" y="2700" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0007" x="2095" y="2700" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0008" x="0" y="3367" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0009" x="0" y="3367" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0010" x="0" y="3367" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0011" x="0" y="3367" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0012" x="0" y="3367" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<SubTexture name="flippy dies0013" x="0" y="3367" width="535" height="656" frameX="0" frameY="0" frameWidth="535" frameHeight="656" />
+<!-- dead loop -->
+<SubTexture name="flippy dead loop0000" x="535" y="3367" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0001" x="535" y="3367" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0002" x="1076" y="3367" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0003" x="1076" y="3367" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0004" x="1617" y="3367" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0005" x="1617" y="3367" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0006" x="2158" y="3367" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0007" x="2158" y="3367" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0008" x="0" y="4023" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0009" x="0" y="4023" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0010" x="0" y="4023" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0011" x="0" y="4023" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0012" x="0" y="4023" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<SubTexture name="flippy dead loop0013" x="0" y="4023" width="541" height="656" frameX="0" frameY="0" frameWidth="541" frameHeight="656" />
+<!-- dead confirm -->
+<SubTexture name="flippy dead confirm0000" x="541" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0001" x="541" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0002" x="1074" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0003" x="1074" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0004" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0005" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0006" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0007" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0008" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0009" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0010" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0011" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0012" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+<SubTexture name="flippy dead confirm0013" x="1607" y="4023" width="533" height="655" frameX="0" frameY="0" frameWidth="533" frameHeight="655" />
+</TextureAtlas>

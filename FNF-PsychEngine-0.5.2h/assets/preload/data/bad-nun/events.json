@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "night-camp",
+		"player1": "bf-fliqpy-fever",
+		"player2": "Taki",
+		"player3": null,
+		"events": [
+			[
+				13714.2857142857,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.9"
+					]
+				]
+			],
+			[
+				27428.5714285714,
+				[
+					[
+						"FlashUnHud",
+						"1",
+						"1"
+					],
+					[
+						"Cinematics",
+						"2",
+						"0.3"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"FlashUnHud",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				137142.857142857,
+				[
+					[
+						"Screen Shake",
+						"1,0.035",
+						"1,0.01"
+					]
+				]
+			],
+			[
+				164571.428571428,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.9"
+					]
+				]
+			],
+			[
+				191142.857142857,
+				[
+					[
+						"Cinematics",
+						"2",
+						"0.7"
+					]
+				]
+			],
+			[
+				205714.285714285,
+				[
+					[
+						"FlashUnHud",
+						"1",
+						"1"
+					],
+					[
+						"Cinematics",
+						"1",
+						"0.7"
+					]
+				]
+			],
+			[
+				226392.857142857,
+				[
+					[
+						"Camera Switch",
+						"0.01",
+						"off"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bad-Nun"
+	}
+}

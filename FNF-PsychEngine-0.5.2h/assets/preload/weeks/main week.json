@@ -1,0 +1,68 @@
+{
+	"storyName": "PTSD Riddence'd Loser",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Main_story",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"triggered",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"slaughter",
+			"blood",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hunter",
+			"genocide",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"assault",
+			"crazy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"fallout",
+			"FLP",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Main Week",
+	"hiddenUntilUnlocked": false
+}

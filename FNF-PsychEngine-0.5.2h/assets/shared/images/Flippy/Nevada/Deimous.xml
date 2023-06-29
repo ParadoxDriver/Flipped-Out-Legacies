@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deimous.png">
+<SubTexture name="deimous land0000" x="0" y="0" width="390" height="424" frameX="-15" frameY="38" frameWidth="390" frameHeight="424" />
+<SubTexture name="deimous land0001" x="390" y="0" width="390" height="424" frameX="-15" frameY="38" frameWidth="390" frameHeight="424" />
+<SubTexture name="deimous land0002" x="780" y="0" width="390" height="424" frameX="-15" frameY="38" frameWidth="390" frameHeight="424" />
+<SubTexture name="deimous land0003" x="1170" y="0" width="390" height="424" frameX="-15" frameY="38" frameWidth="390" frameHeight="424" />
+<SubTexture name="deimous land0004" x="0" y="424" width="390" height="424" frameX="-15" frameY="38" frameWidth="390" frameHeight="424" />
+<SubTexture name="deimous land0005" x="390" y="424" width="390" height="424" frameX="-15" frameY="38" frameWidth="390" frameHeight="424" />
+<SubTexture name="deimous dance0000" x="780" y="424" width="397" height="386" frameX="0" frameY="0" frameWidth="397" frameHeight="386" />
+<SubTexture name="deimous dance0001" x="1177" y="424" width="397" height="386" frameX="0" frameY="0" frameWidth="397" frameHeight="386" />
+<SubTexture name="deimous dance0002" x="0" y="848" width="397" height="386" frameX="0" frameY="0" frameWidth="397" frameHeight="386" />
+<SubTexture name="deimous dance0003" x="397" y="848" width="397" height="386" frameX="0" frameY="0" frameWidth="397" frameHeight="386" />
+<SubTexture name="deimous dance0004" x="794" y="848" width="397" height="386" frameX="0" frameY="0" frameWidth="397" frameHeight="386" />
+<SubTexture name="deimous dance0005" x="1191" y="848" width="397" height="386" frameX="0" frameY="0" frameWidth="397" frameHeight="386" />
+<SubTexture name="deimous dance0006" x="0" y="1234" width="397" height="386" frameX="0" frameY="0" frameWidth="397" frameHeight="386" />
+<SubTexture name="deimous dance0007" x="397" y="1234" width="397" height="386" frameX="0" frameY="0" frameWidth="397" frameHeight="386" />
+<SubTexture name="deimous shoot0000" x="794" y="1234" width="674" height="457" frameX="2" frameY="45" frameWidth="674" frameHeight="457" />
+<SubTexture name="deimous shoot0001" x="1468" y="1234" width="674" height="457" frameX="2" frameY="45" frameWidth="674" frameHeight="457" />
+<SubTexture name="deimous shoot0002" x="0" y="1691" width="674" height="457" frameX="2" frameY="45" frameWidth="674" frameHeight="457" />
+<SubTexture name="deimous shoot0003" x="674" y="1691" width="674" height="457" frameX="2" frameY="45" frameWidth="674" frameHeight="457" />
+<SubTexture name="deimous shoot0004" x="1348" y="1691" width="674" height="457" frameX="2" frameY="45" frameWidth="674" frameHeight="457" />
+<SubTexture name="deimous shoot0005" x="2022" y="1691" width="674" height="457" frameX="2" frameY="45" frameWidth="674" frameHeight="457" />
+<SubTexture name="deimous shoot0006" x="0" y="2148" width="674" height="457" frameX="2" frameY="45" frameWidth="674" frameHeight="457" />
+<SubTexture name="deimous shoot0007" x="674" y="2148" width="674" height="457" frameX="2" frameY="45" frameWidth="674" frameHeight="457" />
+</TextureAtlas>

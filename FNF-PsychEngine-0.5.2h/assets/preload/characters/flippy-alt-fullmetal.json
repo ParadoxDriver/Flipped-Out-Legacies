@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FLIQPY IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "FLIQPY IDLE"
+		},
+		{
+			"offsets": [
+				34,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FLIQPY LEFT"
+		},
+		{
+			"offsets": [
+				-147,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FLIQPY DOWN"
+		},
+		{
+			"offsets": [
+				-154,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FLIQPY UP"
+		},
+		{
+			"offsets": [
+				-171,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FLIQPY RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "FullMetal/Fliqpy_SA",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "fmalt",
+	"flip_x": false,
+	"healthbar_colors": [
+		152,
+		255,
+		156
+	],
+	"camera_position": [
+		170,
+		40
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

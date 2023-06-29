@@ -1,0 +1,10530 @@
+{
+	"song": {
+		"player1": "bf-carry-fullmetal",
+		"sectionLengths": [],
+		"events": [],
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						14769.2307692308,
+						0,
+						1788.46153846154
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": true,
+				"bpm": 260
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						16615.3846153846,
+						3,
+						1788.46153846154
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						18461.5384615385,
+						1,
+						1788.46153846154
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						20307.6923076923,
+						2,
+						865.384615384616
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						21230.7692307692,
+						1,
+						403.846153846154
+					],
+					[
+						21692.3076923077,
+						0,
+						403.846153846154
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						22153.8461538462,
+						1,
+						1788.46153846154
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						24000,
+						3,
+						857.142857142858
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						24923.0769230769,
+						2,
+						865.384615384616
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						25846.1538461538,
+						1,
+						1659.96503496503
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						27692.3076923077,
+						3,
+						865.384615384616
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						28615.3846153846,
+						2,
+						634.615384615385
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						29538.4615384615,
+						0,
+						0
+					],
+					[
+						29769.2307692308,
+						2,
+						0
+					],
+					[
+						29653.8461538461,
+						1,
+						0
+					],
+					[
+						29884.6153846154,
+						0,
+						0
+					],
+					[
+						29942.3076923077,
+						3,
+						0
+					],
+					[
+						30115.3846153846,
+						2,
+						0
+					],
+					[
+						30230.7692307692,
+						1,
+						0
+					],
+					[
+						30346.1538461538,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						30000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						29596.1538461538,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						31096.1538461538,
+						0,
+						0
+					],
+					[
+						30576.9230769231,
+						3,
+						0
+					],
+					[
+						30807.6923076923,
+						0,
+						0
+					],
+					[
+						30692.3076923077,
+						2,
+						0
+					],
+					[
+						30461.5384615385,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						30923.0769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						30980.7692307692,
+						3,
+						0
+					],
+					[
+						31038.4615384615,
+						2,
+						0
+					],
+					[
+						31211.5384615385,
+						3,
+						0
+					],
+					[
+						31326.9230769231,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						31500,
+						3,
+						0
+					],
+					[
+						31557.6923076923,
+						2,
+						0
+					],
+					[
+						31644.2307692308,
+						0,
+						0
+					],
+					[
+						31846.1538461538,
+						1,
+						0
+					],
+					[
+						31961.5384615385,
+						2,
+						0
+					],
+					[
+						32048.0769230769,
+						0,
+						0
+					],
+					[
+						32134.6153846154,
+						2,
+						0
+					],
+					[
+						32250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						31903.8461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						31730.7692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						31442.3076923077,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						32538.4615384615,
+						0,
+						0
+					],
+					[
+						32596.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						32653.8461538461,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						32365.3846153846,
+						3,
+						0
+					],
+					[
+						32480.7692307692,
+						2,
+						0
+					],
+					[
+						32769.2307692308,
+						1,
+						0
+					],
+					[
+						33000,
+						0,
+						0
+					],
+					[
+						33115.3846153846,
+						3,
+						0
+					],
+					[
+						32884.6153846154,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						33230.7692307692,
+						0,
+						0
+					],
+					[
+						33461.5384615385,
+						2,
+						0
+					],
+					[
+						33346.1538461538,
+						1,
+						0
+					],
+					[
+						33576.9230769231,
+						0,
+						0
+					],
+					[
+						33634.6153846154,
+						3,
+						0
+					],
+					[
+						33807.6923076923,
+						2,
+						0
+					],
+					[
+						33923.0769230769,
+						1,
+						0
+					],
+					[
+						33692.3076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						33288.4615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						34038.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						34038.4615384615,
+						3,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						34788.4615384615,
+						0,
+						0
+					],
+					[
+						34153.8461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						34615.3846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						34269.2307692308,
+						0,
+						0
+					],
+					[
+						34384.6153846154,
+						3,
+						0
+					],
+					[
+						34500,
+						2,
+						0
+					],
+					[
+						34269.2307692308,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						34673.0769230769,
+						3,
+						0
+					],
+					[
+						34730.7692307692,
+						2,
+						0
+					],
+					[
+						34903.8461538461,
+						3,
+						0
+					],
+					[
+						35019.2307692308,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						35192.3076923077,
+						3,
+						0
+					],
+					[
+						35250,
+						2,
+						0
+					],
+					[
+						35336.5384615384,
+						0,
+						0
+					],
+					[
+						35538.4615384615,
+						1,
+						0
+					],
+					[
+						35653.8461538461,
+						2,
+						0
+					],
+					[
+						35740.3846153846,
+						0,
+						0
+					],
+					[
+						35826.9230769231,
+						2,
+						0
+					],
+					[
+						35942.3076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						35596.1538461538,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						35423.0769230769,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						35134.6153846154,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						36461.5384615385,
+						1,
+						0
+					],
+					[
+						36807.6923076923,
+						3,
+						0
+					],
+					[
+						36230.7692307692,
+						0,
+						0
+					],
+					[
+						36288.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						36576.9230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						36692.3076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						36346.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						36576.9230769231,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						36807.6923076923,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						36057.6923076923,
+						3,
+						0
+					],
+					[
+						36173.0769230769,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						36980.7692307692,
+						3,
+						0
+					],
+					[
+						37038.4615384615,
+						2,
+						0
+					],
+					[
+						37125,
+						0,
+						0
+					],
+					[
+						37326.9230769231,
+						1,
+						0
+					],
+					[
+						37442.3076923077,
+						2,
+						0
+					],
+					[
+						37528.8461538461,
+						0,
+						0
+					],
+					[
+						37615.3846153846,
+						2,
+						0
+					],
+					[
+						36923.0769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						37211.5384615384,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						37673.0769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						37384.6153846154,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						37788.4615384615,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						38192.3076923076,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						37903.8461538461,
+						3,
+						0
+					],
+					[
+						38076.9230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						38134.6153846154,
+						0,
+						0
+					],
+					[
+						38019.2307692308,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						38307.6923076923,
+						1,
+						0
+					],
+					[
+						38538.4615384615,
+						0,
+						0
+					],
+					[
+						38653.8461538461,
+						3,
+						0
+					],
+					[
+						38423.0769230769,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						38826.9230769231,
+						3,
+						0
+					],
+					[
+						39173.0769230769,
+						1,
+						0
+					],
+					[
+						38971.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						39375,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						39519.2307692308,
+						1,
+						0
+					],
+					[
+						39230.7692307692,
+						3,
+						0
+					],
+					[
+						38769.2307692308,
+						1,
+						0
+					],
+					[
+						39057.6923076923,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						38884.6153846154,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						39288.4615384615,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						39461.5384615384,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						39634.6153846154,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						39750,
+						3,
+						0
+					],
+					[
+						39923.0769230769,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						39980.7692307692,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						40038.4615384615,
+						0,
+						0
+					],
+					[
+						39865.3846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						40153.8461538461,
+						1,
+						0
+					],
+					[
+						40384.6153846154,
+						0,
+						0
+					],
+					[
+						40500,
+						3,
+						0
+					],
+					[
+						40269.2307692308,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						40673.0769230769,
+						3,
+						0
+					],
+					[
+						40730.7692307692,
+						2,
+						0
+					],
+					[
+						40817.3076923077,
+						0,
+						0
+					],
+					[
+						41019.2307692308,
+						1,
+						0
+					],
+					[
+						41134.6153846154,
+						2,
+						0
+					],
+					[
+						41221.1538461538,
+						0,
+						0
+					],
+					[
+						41307.6923076923,
+						2,
+						0
+					],
+					[
+						40615.3846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						40903.8461538461,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						41365.3846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						41076.9230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						41480.7692307692,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						41769.2307692308,
+						0,
+						0
+					],
+					[
+						42288.4615384615,
+						3,
+						0
+					],
+					[
+						41942.3076923077,
+						1,
+						0
+					],
+					[
+						41826.9230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						41711.5384615384,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						42173.0769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						42057.6923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						42288.4615384615,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						42057.6923076923,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						41538.4615384615,
+						3,
+						0
+					],
+					[
+						41653.8461538461,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						42519.2307692308,
+						3,
+						0
+					],
+					[
+						42865.3846153846,
+						1,
+						0
+					],
+					[
+						42663.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						43067.3076923077,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						43211.5384615384,
+						1,
+						0
+					],
+					[
+						42923.0769230769,
+						3,
+						0
+					],
+					[
+						42461.5384615384,
+						1,
+						0
+					],
+					[
+						42750,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						42576.9230769231,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						42980.7692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						43153.8461538461,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						43326.9230769231,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						43615.3846153846,
+						0,
+						0
+					],
+					[
+						44134.6153846153,
+						3,
+						0
+					],
+					[
+						43788.4615384615,
+						1,
+						0
+					],
+					[
+						43673.0769230769,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						43557.6923076922,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						44019.2307692307,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						43903.8461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						44134.6153846153,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						43903.8461538461,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						43384.6153846154,
+						3,
+						0
+					],
+					[
+						43500,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						44711.5384615384,
+						1,
+						0
+					],
+					[
+						44509.6153846154,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						44913.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						45173.0769230769,
+						0,
+						0
+					],
+					[
+						45000,
+						2,
+						0
+					],
+					[
+						44826.923076923,
+						2,
+						0
+					],
+					[
+						44596.1538461538,
+						2,
+						0
+					],
+					[
+						44423.0769230769,
+						2,
+						0
+					],
+					[
+						45057.6923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						44769.2307692307,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						44365.3846153846,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						44307.6923076923,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						45519.2307692307,
+						0,
+						0
+					],
+					[
+						45461.5384615384,
+						0,
+						0
+					],
+					[
+						45576.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						45403.8461538461,
+						2,
+						0
+					],
+					[
+						45288.4615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						45692.3076923077,
+						1,
+						0
+					],
+					[
+						45807.6923076923,
+						2,
+						0
+					],
+					[
+						45923.0769230769,
+						0,
+						0
+					],
+					[
+						46038.4615384615,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						46846.1538461538,
+						0,
+						173.076923076923
+					],
+					[
+						46673.0769230769,
+						1,
+						0
+					],
+					[
+						46788.4615384615,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						46269.2307692307,
+						1,
+						0
+					],
+					[
+						46384.6153846154,
+						2,
+						0
+					],
+					[
+						46557.6923076923,
+						2,
+						0
+					],
+					[
+						46153.8461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						46500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						46442.3076923077,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						47942.3076923077,
+						3,
+						0
+					],
+					[
+						47826.923076923,
+						3,
+						32.967032967033
+					],
+					[
+						47596.1538461538,
+						1,
+						0
+					],
+					[
+						47134.6153846154,
+						1,
+						0
+					],
+					[
+						47480.7692307692,
+						0,
+						0
+					],
+					[
+						47711.5384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						47250,
+						2,
+						0
+					],
+					[
+						47365.3846153846,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						48000,
+						0,
+						692.307692307692
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						49846.1538461538,
+						1,
+						0
+					],
+					[
+						49961.5384615384,
+						0,
+						0
+					],
+					[
+						50076.923076923,
+						2,
+						0
+					],
+					[
+						50307.6923076923,
+						3,
+						0
+					],
+					[
+						50192.3076923077,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						50596.1538461538,
+						1,
+						131.868131868132
+					],
+					[
+						50423.0769230769,
+						1,
+						131.868131868132
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						51288.4615384615,
+						3,
+						0
+					],
+					[
+						51403.8461538461,
+						3,
+						0
+					],
+					[
+						51519.2307692307,
+						3,
+						0
+					],
+					[
+						51634.6153846154,
+						3,
+						0
+					],
+					[
+						51576.923076923,
+						1,
+						0
+					],
+					[
+						51461.5384615384,
+						1,
+						0
+					],
+					[
+						50769.2307692307,
+						3,
+						230.769230769231
+					],
+					[
+						51057.6923076923,
+						3,
+						197.802197802198
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						52096.1538461538,
+						1,
+						0
+					],
+					[
+						51894.2307692308,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						52298.0769230769,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						52557.6923076923,
+						0,
+						0
+					],
+					[
+						52384.6153846154,
+						2,
+						0
+					],
+					[
+						52211.5384615384,
+						2,
+						0
+					],
+					[
+						51980.7692307692,
+						2,
+						0
+					],
+					[
+						51807.6923076923,
+						2,
+						0
+					],
+					[
+						52442.3076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						52153.8461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						51750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						51692.3076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						51692.3076923077,
+						4,
+						791.208791208792
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						52846.1538461539,
+						0,
+						0
+					],
+					[
+						53365.3846153846,
+						3,
+						0
+					],
+					[
+						53019.2307692308,
+						1,
+						0
+					],
+					[
+						52903.8461538462,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						52788.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						53250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						53134.6153846154,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						53365.3846153846,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						53134.6153846154,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						52615.3846153846,
+						3,
+						0
+					],
+					[
+						52730.7692307692,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						54230.7692307692,
+						0,
+						173.076923076923
+					],
+					[
+						54057.6923076923,
+						1,
+						0
+					],
+					[
+						54173.0769230769,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						53653.8461538461,
+						1,
+						0
+					],
+					[
+						53769.2307692307,
+						2,
+						0
+					],
+					[
+						53942.3076923077,
+						2,
+						0
+					],
+					[
+						53538.4615384615,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						53884.6153846154,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						53826.923076923,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						55326.9230769231,
+						3,
+						0
+					],
+					[
+						55211.5384615384,
+						3,
+						32.967032967033
+					],
+					[
+						54980.7692307692,
+						1,
+						0
+					],
+					[
+						54519.2307692308,
+						1,
+						0
+					],
+					[
+						54865.3846153846,
+						0,
+						0
+					],
+					[
+						55096.1538461538,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						54634.6153846154,
+						2,
+						0
+					],
+					[
+						54750,
+						1,
+						0
+					],
+					[
+						55269.2307692307,
+						2,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						55038.4615384615,
+						2,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						54634.6153846153,
+						0,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						55384.6153846153,
+						0,
+						865.384615384616
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						57230.7692307692,
+						1,
+						0
+					],
+					[
+						57346.1538461538,
+						0,
+						0
+					],
+					[
+						57461.5384615384,
+						2,
+						0
+					],
+					[
+						57692.3076923077,
+						3,
+						0
+					],
+					[
+						57576.9230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						57980.7692307692,
+						1,
+						131.868131868132
+					],
+					[
+						57807.6923076923,
+						1,
+						131.868131868132
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						58384.6153846153,
+						3,
+						164.835164835165
+					],
+					[
+						58153.8461538461,
+						3,
+						197.802197802198
+					],
+					[
+						58846.1538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						58961.5384615384,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						58730.7692307692,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						58615.3846153846,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						59307.6923076923,
+						2,
+						0
+					],
+					[
+						59134.6153846154,
+						3,
+						0
+					],
+					[
+						59423.0769230769,
+						0,
+						0
+					],
+					[
+						59653.8461538461,
+						2,
+						0
+					],
+					[
+						59769.2307692308,
+						1,
+						0
+					],
+					[
+						59076.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						59192.3076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						59480.7692307692,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						59538.4615384615,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						59884.6153846153,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						59076.923076923,
+						5,
+						758.241758241759
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						60634.6153846153,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						60000,
+						1,
+						0
+					],
+					[
+						60230.7692307692,
+						3,
+						0
+					],
+					[
+						60346.1538461538,
+						2,
+						0
+					],
+					[
+						60461.5384615384,
+						0,
+						0
+					],
+					[
+						60576.923076923,
+						1,
+						0
+					],
+					[
+						60692.3076923077,
+						2,
+						0
+					],
+					[
+						60807.6923076923,
+						1,
+						0
+					],
+					[
+						60115.3846153846,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						61211.5384615384,
+						2,
+						0
+					],
+					[
+						61096.1538461538,
+						1,
+						0
+					],
+					[
+						61326.923076923,
+						1,
+						0
+					],
+					[
+						61615.3846153846,
+						1,
+						0
+					],
+					[
+						61730.7692307692,
+						2,
+						0
+					],
+					[
+						61153.8461538461,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						61038.4615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						60980.7692307692,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						61500,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						61557.6923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						61673.0769230769,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						61961.5384615384,
+						1,
+						0
+					],
+					[
+						62076.923076923,
+						0,
+						0
+					],
+					[
+						61846.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						62192.3076923076,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						62307.6923076923,
+						2,
+						0
+					],
+					[
+						62538.4615384615,
+						2,
+						0
+					],
+					[
+						62653.8461538461,
+						0,
+						0
+					],
+					[
+						62423.0769230769,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						62826.923076923,
+						1,
+						0
+					],
+					[
+						62942.3076923076,
+						3,
+						0
+					],
+					[
+						63173.0769230769,
+						0,
+						0
+					],
+					[
+						63403.8461538461,
+						1,
+						0
+					],
+					[
+						63288.4615384615,
+						3,
+						0
+					],
+					[
+						63057.6923076923,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						63519.2307692307,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						63692.3076923076,
+						3,
+						0
+					],
+					[
+						63749.9999999999,
+						1,
+						0
+					],
+					[
+						63923.0769230769,
+						3,
+						0
+					],
+					[
+						64038.4615384615,
+						0,
+						0
+					],
+					[
+						64096.1538461538,
+						2,
+						0
+					],
+					[
+						64211.5384615384,
+						1,
+						0
+					],
+					[
+						64269.2307692307,
+						0,
+						0
+					],
+					[
+						64384.6153846153,
+						3,
+						0
+					],
+					[
+						64442.3076923076,
+						1,
+						0
+					],
+					[
+						63807.6923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						63865.3846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						63980.7692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						64153.8461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						64326.923076923,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						64211.5384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						64211.5384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						64499.9999999999,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						64557.6923076923,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						64615.3846153846,
+						0,
+						0
+					],
+					[
+						64961.5384615384,
+						0,
+						0
+					],
+					[
+						65307.6923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						64730.7692307692,
+						1,
+						0
+					],
+					[
+						65192.3076923076,
+						3,
+						0
+					],
+					[
+						65076.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						64846.1538461538,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						65365.3846153846,
+						3,
+						0
+					],
+					[
+						65423.0769230769,
+						0,
+						0
+					],
+					[
+						65480.7692307692,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						65942.3076923076,
+						3,
+						0
+					],
+					[
+						65538.4615384615,
+						1,
+						0
+					],
+					[
+						65653.8461538461,
+						1,
+						0
+					],
+					[
+						65769.2307692307,
+						2,
+						0
+					],
+					[
+						66057.6923076923,
+						2,
+						0
+					],
+					[
+						66230.7692307692,
+						1,
+						0
+					],
+					[
+						66288.4615384615,
+						2,
+						0
+					],
+					[
+						65596.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						65711.5384615384,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						65826.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						65884.6153846153,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						66000,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						66115.3846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						66173.0769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						66346.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						66403.8461538461,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						66692.3076923077,
+						2,
+						0
+					],
+					[
+						66519.2307692308,
+						3,
+						0
+					],
+					[
+						66807.6923076923,
+						0,
+						0
+					],
+					[
+						67038.4615384615,
+						2,
+						0
+					],
+					[
+						67153.8461538461,
+						1,
+						0
+					],
+					[
+						66461.5384615384,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						66576.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						66865.3846153846,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						66923.0769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						67269.2307692307,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						68019.2307692307,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						67384.6153846153,
+						1,
+						0
+					],
+					[
+						67615.3846153846,
+						3,
+						0
+					],
+					[
+						67730.7692307692,
+						2,
+						0
+					],
+					[
+						67846.1538461538,
+						0,
+						0
+					],
+					[
+						67961.5384615384,
+						1,
+						0
+					],
+					[
+						68076.923076923,
+						2,
+						0
+					],
+					[
+						68192.3076923076,
+						1,
+						0
+					],
+					[
+						67499.9999999999,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						68596.1538461538,
+						2,
+						0
+					],
+					[
+						68480.7692307692,
+						1,
+						0
+					],
+					[
+						68711.5384615384,
+						1,
+						0
+					],
+					[
+						69000,
+						1,
+						0
+					],
+					[
+						69115.3846153846,
+						2,
+						0
+					],
+					[
+						68365.3846153846,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						68423.0769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						68538.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						68884.6153846153,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						68942.3076923076,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						69057.6923076923,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"sectionNotes": [
+					[
+						69403.8461538461,
+						1,
+						0
+					],
+					[
+						69519.2307692307,
+						0,
+						0
+					],
+					[
+						69288.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						69692.3076923076,
+						1,
+						0
+					],
+					[
+						69634.6153846153,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						69807.6923076923,
+						3,
+						0
+					],
+					[
+						69923.0769230769,
+						1,
+						0
+					],
+					[
+						70038.4615384615,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						70788.4615384615,
+						1,
+						0
+					],
+					[
+						70211.5384615384,
+						1,
+						0
+					],
+					[
+						70326.923076923,
+						3,
+						0
+					],
+					[
+						70557.6923076923,
+						0,
+						0
+					],
+					[
+						70673.0769230769,
+						3,
+						0
+					],
+					[
+						70442.3076923076,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						70903.8461538461,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						71076.923076923,
+						0,
+						0
+					],
+					[
+						71134.6153846153,
+						2,
+						0
+					],
+					[
+						71307.6923076923,
+						0,
+						0
+					],
+					[
+						71423.0769230769,
+						3,
+						0
+					],
+					[
+						71480.7692307692,
+						1,
+						0
+					],
+					[
+						71596.1538461538,
+						2,
+						0
+					],
+					[
+						71653.8461538461,
+						3,
+						0
+					],
+					[
+						71769.2307692307,
+						0,
+						0
+					],
+					[
+						71826.923076923,
+						2,
+						0
+					],
+					[
+						71192.3076923076,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						71250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						71365.3846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						71538.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						71711.5384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						71596.1538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						71596.1538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						71884.6153846153,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						71942.3076923076,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						72000,
+						0,
+						0
+					],
+					[
+						72346.1538461538,
+						0,
+						0
+					],
+					[
+						72692.3076923076,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						72115.3846153846,
+						1,
+						0
+					],
+					[
+						72576.923076923,
+						3,
+						0
+					],
+					[
+						72461.5384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						72230.7692307692,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						72865.3846153846,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						72749.9999999999,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						72807.6923076923,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						73615.3846153846,
+						3,
+						164.835164835165
+					],
+					[
+						73384.6153846153,
+						0,
+						164.835164835165
+					],
+					[
+						73038.4615384615,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						73096.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						72980.7692307692,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						72923.0769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						73153.8461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						73211.5384615384,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						73269.2307692307,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						73326.923076923,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						73442.3076923076,
+						1,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						73557.6923076923,
+						2,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						73673.0769230769,
+						1,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						73788.4615384615,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						73211.5384615384,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						73096.1538461538,
+						2,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						73384.6153846153,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						72980.7692307692,
+						3,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						74019.2307692308,
+						2,
+						0
+					],
+					[
+						73938.4615384615,
+						0,
+						0
+					],
+					[
+						74134.6153846154,
+						1,
+						0
+					],
+					[
+						74382.6923076923,
+						0,
+						0
+					],
+					[
+						74480.7692307692,
+						2,
+						0
+					],
+					[
+						74596.1538461538,
+						1,
+						0
+					],
+					[
+						74711.5384615384,
+						0,
+						0
+					],
+					[
+						73846.1538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						74076.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						74307.6923076923,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						74538.4615384615,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						75173.0769230769,
+						0,
+						0
+					],
+					[
+						74942.3076923076,
+						2,
+						0
+					],
+					[
+						75403.8461538461,
+						0,
+						0
+					],
+					[
+						75634.6153846153,
+						1,
+						0
+					],
+					[
+						74826.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						75057.6923076922,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						75288.4615384615,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						75519.2307692307,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						75749.9999999999,
+						0,
+						0
+					],
+					[
+						75923.0769230769,
+						3,
+						0
+					],
+					[
+						76038.4615384615,
+						1,
+						0
+					],
+					[
+						76211.5384615384,
+						2,
+						0
+					],
+					[
+						76269.2307692307,
+						1,
+						0
+					],
+					[
+						76442.3076923076,
+						2,
+						0
+					],
+					[
+						75865.3846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						75807.6923076922,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						76326.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						76153.8461538461,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						76557.6923076922,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						76673.0769230769,
+						1,
+						0
+					],
+					[
+						76788.4615384615,
+						2,
+						0
+					],
+					[
+						77019.2307692307,
+						0,
+						0
+					],
+					[
+						77249.9999999999,
+						2,
+						0
+					],
+					[
+						77339.423076923,
+						0,
+						0
+					],
+					[
+						77480.7692307692,
+						3,
+						0
+					],
+					[
+						76903.8461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						77134.6153846153,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						77826.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						78173.0769230769,
+						3,
+						0
+					],
+					[
+						78403.8461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						78230.7692307692,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						77942.3076923076,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						77596.1538461538,
+						0,
+						0
+					],
+					[
+						77711.5384615384,
+						1,
+						0
+					],
+					[
+						78057.6923076922,
+						1,
+						0
+					],
+					[
+						78288.4615384615,
+						2,
+						0
+					],
+					[
+						78346.1538461538,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						78461.5384615384,
+						1,
+						0
+					],
+					[
+						78576.923076923,
+						2,
+						0
+					],
+					[
+						78692.3076923076,
+						3,
+						0
+					],
+					[
+						78865.3846153846,
+						0,
+						0
+					],
+					[
+						78980.7692307692,
+						3,
+						0
+					],
+					[
+						79269.2307692307,
+						2,
+						0
+					],
+					[
+						79153.8461538461,
+						3,
+						0
+					],
+					[
+						78749.9999999999,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						78807.6923076922,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						78634.6153846153,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						78519.2307692307,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						78923.0769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						79038.4615384615,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						79096.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						79326.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						79211.5384615384,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						80019.2307692307,
+						3,
+						0
+					],
+					[
+						79673.0769230768,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						80192.3076923076,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						80134.6153846153,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						80249.9999999999,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						79442.3076923076,
+						0,
+						0
+					],
+					[
+						79557.6923076922,
+						2,
+						0
+					],
+					[
+						79903.8461538461,
+						2,
+						0
+					],
+					[
+						79788.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						80076.923076923,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						80538.4615384615,
+						1,
+						0
+					],
+					[
+						80826.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						80423.0769230768,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						80365.3846153846,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						80307.6923076922,
+						1,
+						0
+					],
+					[
+						80480.7692307692,
+						0,
+						0
+					],
+					[
+						80711.5384615384,
+						3,
+						0
+					],
+					[
+						80769.2307692307,
+						2,
+						0
+					],
+					[
+						80884.6153846153,
+						2,
+						0
+					],
+					[
+						80942.3076923076,
+						0,
+						0
+					],
+					[
+						81115.3846153846,
+						1,
+						0
+					],
+					[
+						80596.1538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						80653.8461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						81173.0769230768,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						81057.6923076922,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						80999.9999999999,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						81403.8461538461,
+						2,
+						0
+					],
+					[
+						81323.0769230769,
+						0,
+						0
+					],
+					[
+						81519.2307692308,
+						1,
+						0
+					],
+					[
+						81767.3076923077,
+						0,
+						0
+					],
+					[
+						81865.3846153846,
+						2,
+						0
+					],
+					[
+						81980.7692307692,
+						1,
+						0
+					],
+					[
+						82096.1538461538,
+						0,
+						0
+					],
+					[
+						81230.7692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						81461.5384615384,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						81692.3076923076,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						81923.0769230768,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						82557.6923076923,
+						0,
+						0
+					],
+					[
+						82326.923076923,
+						2,
+						0
+					],
+					[
+						82788.4615384615,
+						0,
+						0
+					],
+					[
+						82903.8461538461,
+						2,
+						0
+					],
+					[
+						83019.2307692307,
+						1,
+						0
+					],
+					[
+						82673.0769230768,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						82211.5384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						82442.3076923076,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						83134.6153846153,
+						0,
+						0
+					],
+					[
+						83307.6923076923,
+						3,
+						0
+					],
+					[
+						83423.0769230769,
+						1,
+						0
+					],
+					[
+						83596.1538461538,
+						2,
+						0
+					],
+					[
+						83653.8461538461,
+						1,
+						0
+					],
+					[
+						83826.923076923,
+						2,
+						0
+					],
+					[
+						83192.3076923076,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						83249.9999999999,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						83538.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						83711.5384615384,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						83942.3076923076,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						84057.6923076923,
+						1,
+						0
+					],
+					[
+						84173.0769230769,
+						2,
+						0
+					],
+					[
+						84403.8461538461,
+						0,
+						0
+					],
+					[
+						84634.6153846153,
+						2,
+						0
+					],
+					[
+						84724.0384615384,
+						0,
+						0
+					],
+					[
+						84865.3846153846,
+						3,
+						0
+					],
+					[
+						84288.4615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						84519.2307692307,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						85211.5384615384,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						85557.6923076923,
+						3,
+						0
+					],
+					[
+						85788.4615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						85615.3846153846,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						85326.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						84980.7692307692,
+						0,
+						0
+					],
+					[
+						85673.0769230768,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						85730.7692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						85096.1538461538,
+						1,
+						0
+					],
+					[
+						85442.3076923076,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						86538.4615384615,
+						3,
+						164.835164835165
+					],
+					[
+						86307.6923076922,
+						0,
+						164.835164835165
+					],
+					[
+						86076.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						86134.6153846153,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						86192.3076923076,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						86249.9999999999,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						86365.3846153845,
+						1,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						86480.7692307692,
+						2,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						86596.1538461538,
+						1,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						86711.5384615384,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						86134.6153846153,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						86307.6923076922,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						85903.8461538461,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						85846.1538461538,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						85903.8461538461,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						85961.5384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						86019.2307692307,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						87403.8461538461,
+						3,
+						0
+					],
+					[
+						87057.6923076922,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						87576.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						87519.2307692307,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						87634.6153846153,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						86826.923076923,
+						0,
+						0
+					],
+					[
+						87173.0769230769,
+						0,
+						0
+					],
+					[
+						87461.5384615384,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						86942.3076923076,
+						2,
+						0
+					],
+					[
+						87288.4615384615,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						88384.6153846154,
+						3,
+						164.835164835165
+					],
+					[
+						88153.8461538461,
+						0,
+						164.835164835165
+					],
+					[
+						87923.0769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						87980.7692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						88038.4615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						88096.1538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						88211.5384615384,
+						1,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						88326.9230769231,
+						2,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						88442.3076923077,
+						1,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						88557.6923076923,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						87980.7692307692,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						88153.8461538461,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						87749.9999999999,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						87692.3076923076,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						87749.9999999999,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						87807.6923076922,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						87865.3846153845,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						88615.3846153845,
+						1,
+						0
+					],
+					[
+						88730.7692307691,
+						2,
+						0
+					],
+					[
+						88846.1538461538,
+						0,
+						0
+					],
+					[
+						89076.923076923,
+						2,
+						0
+					],
+					[
+						89192.3076923076,
+						0,
+						0
+					],
+					[
+						89307.6923076922,
+						1,
+						0
+					],
+					[
+						88961.5384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						89423.0769230768,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						89538.4615384615,
+						0,
+						0
+					],
+					[
+						89653.8461538461,
+						1,
+						0
+					],
+					[
+						89884.6153846153,
+						0,
+						0
+					],
+					[
+						90115.3846153845,
+						2,
+						0
+					],
+					[
+						90346.1538461538,
+						1,
+						0
+					],
+					[
+						89769.2307692307,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						89999.9999999999,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						90230.7692307691,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						90461.5384615384,
+						2,
+						0
+					],
+					[
+						90576.923076923,
+						0,
+						0
+					],
+					[
+						90807.6923076922,
+						2,
+						0
+					],
+					[
+						91038.4615384615,
+						1,
+						0
+					],
+					[
+						91153.8461538461,
+						2,
+						0
+					],
+					[
+						91269.2307692307,
+						0,
+						0
+					],
+					[
+						90692.3076923076,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						90923.0769230768,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						91384.6153846153,
+						1,
+						0
+					],
+					[
+						91615.3846153845,
+						0,
+						0
+					],
+					[
+						91846.1538461538,
+						2,
+						0
+					],
+					[
+						91961.5384615384,
+						3,
+						0
+					],
+					[
+						92192.3076923076,
+						1,
+						0
+					],
+					[
+						92076.923076923,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						91730.7692307691,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						91499.9999999999,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						92423.0769230768,
+						2,
+						0
+					],
+					[
+						92307.6923076922,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						92538.4615384615,
+						3,
+						0
+					],
+					[
+						92653.8461538461,
+						0,
+						0
+					],
+					[
+						92884.6153846153,
+						3,
+						0
+					],
+					[
+						93115.3846153845,
+						2,
+						0
+					],
+					[
+						92999.9999999999,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						92769.2307692307,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						93230.7692307691,
+						3,
+						0
+					],
+					[
+						93346.1538461538,
+						0,
+						0
+					],
+					[
+						93461.5384615384,
+						2,
+						0
+					],
+					[
+						93692.3076923076,
+						0,
+						0
+					],
+					[
+						93923.0769230768,
+						3,
+						0
+					],
+					[
+						94038.4615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						93807.6923076922,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						93576.923076923,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						94153.8461538461,
+						2,
+						0
+					],
+					[
+						94269.2307692307,
+						3,
+						0
+					],
+					[
+						94384.6153846153,
+						0,
+						0
+					],
+					[
+						94615.3846153845,
+						3,
+						0
+					],
+					[
+						94730.7692307691,
+						0,
+						0
+					],
+					[
+						94846.1538461538,
+						2,
+						0
+					],
+					[
+						94961.5384615384,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						94499.9999999999,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						95134.6153846153,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						95942.3076923076,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						95596.1538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						95826.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						95480.7692307691,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						95711.5384615384,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						95365.3846153845,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						95249.9999999999,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						95134.6153846153,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						95942.3076923076,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						95999.9999999999,
+						1,
+						0
+					],
+					[
+						96115.3846153845,
+						2,
+						0
+					],
+					[
+						96230.7692307691,
+						0,
+						0
+					],
+					[
+						96461.5384615384,
+						2,
+						0
+					],
+					[
+						96576.923076923,
+						0,
+						0
+					],
+					[
+						96692.3076923076,
+						1,
+						0
+					],
+					[
+						96346.1538461538,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						96807.6923076922,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						96230.7692307691,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						96576.923076923,
+						3,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						96923.0769230768,
+						0,
+						0
+					],
+					[
+						97153.8461538461,
+						2,
+						0
+					],
+					[
+						97384.6153846153,
+						1,
+						0
+					],
+					[
+						97499.9999999999,
+						2,
+						0
+					],
+					[
+						97615.3846153845,
+						0,
+						0
+					],
+					[
+						97730.7692307691,
+						1,
+						0
+					],
+					[
+						97038.4615384614,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						97269.2307692307,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						96923.0769230768,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						97269.2307692307,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						97615.3846153845,
+						3,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						97961.5384615384,
+						0,
+						0
+					],
+					[
+						98192.3076923076,
+						2,
+						0
+					],
+					[
+						98423.0769230768,
+						1,
+						0
+					],
+					[
+						98538.4615384614,
+						2,
+						0
+					],
+					[
+						98653.8461538461,
+						0,
+						0
+					],
+					[
+						97846.1538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						98076.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						98307.6923076922,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						97961.5384615384,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						98307.6923076922,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						98653.8461538461,
+						3,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						98769.2307692307,
+						1,
+						0
+					],
+					[
+						98999.9999999999,
+						0,
+						0
+					],
+					[
+						99230.7692307692,
+						2,
+						0
+					],
+					[
+						99346.1538461538,
+						3,
+						0
+					],
+					[
+						99576.923076923,
+						1,
+						0
+					],
+					[
+						99461.5384615384,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						99115.3846153845,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						98884.6153846153,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						98999.9999999999,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						99346.1538461538,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						99634.6153846153,
+						3,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						99807.6923076922,
+						2,
+						0
+					],
+					[
+						99692.3076923076,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						99923.0769230768,
+						3,
+						0
+					],
+					[
+						100038.461538461,
+						0,
+						0
+					],
+					[
+						100269.230769231,
+						3,
+						0
+					],
+					[
+						100500,
+						2,
+						0
+					],
+					[
+						100384.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						100153.846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						99807.6923076922,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						100038.461538461,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						100211.538461538,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						100384.615384615,
+						2,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						100557.692307692,
+						0,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100615.384615385,
+						3,
+						0
+					],
+					[
+						100730.769230769,
+						0,
+						0
+					],
+					[
+						100846.153846154,
+						2,
+						0
+					],
+					[
+						101076.923076923,
+						0,
+						0
+					],
+					[
+						101307.692307692,
+						3,
+						0
+					],
+					[
+						101423.076923077,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						101192.307692308,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						100961.538461538,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						101250,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						100903.846153846,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						100730.769230769,
+						2,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						101076.923076923,
+						3,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						101423.076923077,
+						3,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						101538.461538461,
+						2,
+						0
+					],
+					[
+						101653.846153846,
+						3,
+						0
+					],
+					[
+						101769.230769231,
+						0,
+						0
+					],
+					[
+						102000,
+						3,
+						0
+					],
+					[
+						102115.384615385,
+						0,
+						0
+					],
+					[
+						102230.769230769,
+						2,
+						0
+					],
+					[
+						102346.153846154,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						101884.615384615,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						102288.461538461,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						101942.307692308,
+						0,
+						0,
+						"Toxin Grenade"
+					],
+					[
+						101596.153846154,
+						0,
+						0,
+						"Toxin Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						102519.230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						103326.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						102980.769230769,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						103211.538461538,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						102865.384615384,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						103096.153846154,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						102750,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						102634.615384615,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						102519.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						103326.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						102461.538461538,
+						1,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						102461.538461538,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						102692.307692308,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						102692.307692308,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						102865.384615385,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						102980.769230769,
+						1,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						103096.153846154,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						103153.846153846,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						103269.230769231,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						103326.923076923,
+						1,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103615.384615385,
+						2,
+						0
+					],
+					[
+						103442.307692308,
+						3,
+						0
+					],
+					[
+						103730.769230769,
+						0,
+						0
+					],
+					[
+						103846.153846154,
+						1,
+						0
+					],
+					[
+						104076.923076923,
+						1,
+						0
+					],
+					[
+						103384.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						103500,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						103788.461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						103961.538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						104192.307692308,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						104769.230769231,
+						1,
+						0
+					],
+					[
+						104942.307692308,
+						0,
+						0
+					],
+					[
+						105057.692307692,
+						2,
+						0
+					],
+					[
+						104423.076923077,
+						3,
+						0
+					],
+					[
+						104538.461538462,
+						2,
+						0
+					],
+					[
+						105173.076923077,
+						1,
+						0
+					],
+					[
+						104307.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						104653.846153846,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						104826.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						104884.615384615,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105461.538461538,
+						2,
+						0
+					],
+					[
+						105288.461538462,
+						3,
+						0
+					],
+					[
+						105576.923076923,
+						0,
+						0
+					],
+					[
+						105692.307692308,
+						1,
+						0
+					],
+					[
+						105923.076923077,
+						1,
+						0
+					],
+					[
+						105230.769230769,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						105346.153846154,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						105634.615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						105807.692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						106038.461538461,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						106615.384615385,
+						1,
+						0
+					],
+					[
+						106788.461538462,
+						0,
+						0
+					],
+					[
+						106903.846153846,
+						2,
+						0
+					],
+					[
+						106269.230769231,
+						3,
+						0
+					],
+					[
+						106384.615384615,
+						2,
+						0
+					],
+					[
+						107019.230769231,
+						1,
+						0
+					],
+					[
+						106153.846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						106500,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						106673.076923077,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						106730.769230769,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107307.692307692,
+						2,
+						0
+					],
+					[
+						107134.615384615,
+						3,
+						0
+					],
+					[
+						107423.076923077,
+						0,
+						0
+					],
+					[
+						107538.461538462,
+						1,
+						0
+					],
+					[
+						107769.230769231,
+						1,
+						0
+					],
+					[
+						107076.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						107192.307692308,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						107480.769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						107653.846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						107884.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						107769.230769231,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						107884.615384615,
+						2,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108461.538461538,
+						1,
+						0
+					],
+					[
+						108634.615384615,
+						0,
+						0
+					],
+					[
+						108750,
+						2,
+						0
+					],
+					[
+						108865.384615385,
+						1,
+						0
+					],
+					[
+						108115.384615385,
+						0,
+						0
+					],
+					[
+						108230.769230769,
+						3,
+						0
+					],
+					[
+						108000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						108346.153846154,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						108000,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						108115.384615385,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						108519.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						108576.923076923,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						109153.846153846,
+						2,
+						0
+					],
+					[
+						108980.769230769,
+						3,
+						0
+					],
+					[
+						109269.230769231,
+						0,
+						0
+					],
+					[
+						109384.615384615,
+						1,
+						0
+					],
+					[
+						109615.384615385,
+						1,
+						0
+					],
+					[
+						108923.076923077,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						109038.461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						109326.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						109500,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						109730.769230769,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						109615.384615385,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						109730.769230769,
+						2,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110307.692307692,
+						1,
+						0
+					],
+					[
+						110480.769230769,
+						0,
+						0
+					],
+					[
+						110596.153846154,
+						2,
+						0
+					],
+					[
+						110711.538461538,
+						1,
+						0
+					],
+					[
+						109961.538461538,
+						0,
+						0
+					],
+					[
+						110076.923076923,
+						3,
+						0
+					],
+					[
+						109846.153846154,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						110192.307692308,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						109846.153846154,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						109961.538461538,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						110365.384615385,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						110423.076923077,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110769.230769231,
+						0,
+						0
+					],
+					[
+						111000,
+						2,
+						0
+					],
+					[
+						111173.076923077,
+						3,
+						0
+					],
+					[
+						111230.769230769,
+						1,
+						0
+					],
+					[
+						111461.538461538,
+						1,
+						0
+					],
+					[
+						110826.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						110884.615384615,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						111115.384615385,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						111346.153846154,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						111576.923076923,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						112326.923076923,
+						0,
+						0
+					],
+					[
+						112442.307692308,
+						2,
+						0
+					],
+					[
+						111807.692307692,
+						3,
+						0
+					],
+					[
+						112038.461538462,
+						0,
+						0
+					],
+					[
+						111923.076923077,
+						2,
+						0
+					],
+					[
+						111692.307692308,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						112153.846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						112211.538461538,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						112269.230769231,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						112557.692307692,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						112730.769230769,
+						3,
+						0
+					],
+					[
+						112788.461538462,
+						2,
+						0
+					],
+					[
+						112875,
+						0,
+						0
+					],
+					[
+						113076.923076923,
+						1,
+						0
+					],
+					[
+						113192.307692308,
+						2,
+						0
+					],
+					[
+						113278.846153846,
+						0,
+						0
+					],
+					[
+						113365.384615385,
+						2,
+						0
+					],
+					[
+						113480.769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						113134.615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						112961.538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						112673.076923077,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						113769.230769231,
+						0,
+						0
+					],
+					[
+						113826.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						113884.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						113596.153846154,
+						3,
+						0
+					],
+					[
+						113711.538461538,
+						2,
+						0
+					],
+					[
+						114000,
+						1,
+						0
+					],
+					[
+						114115.384615385,
+						2,
+						0
+					],
+					[
+						114346.153846154,
+						3,
+						0
+					],
+					[
+						114230.769230769,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						114461.538461538,
+						0,
+						0
+					],
+					[
+						114692.307692308,
+						2,
+						0
+					],
+					[
+						114865.384615385,
+						3,
+						0
+					],
+					[
+						114923.076923077,
+						1,
+						0
+					],
+					[
+						115153.846153846,
+						1,
+						0
+					],
+					[
+						114519.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						114576.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						114807.692307692,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						115038.461538461,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						115269.230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						115153.846153846,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						115269.230769231,
+						2,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116019.230769231,
+						0,
+						0
+					],
+					[
+						116134.615384615,
+						2,
+						0
+					],
+					[
+						115500,
+						0,
+						0
+					],
+					[
+						115615.384615385,
+						3,
+						0
+					],
+					[
+						115730.769230769,
+						2,
+						0
+					],
+					[
+						115384.615384615,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						115846.153846154,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						115384.615384615,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						115500,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						115903.846153846,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						115961.538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						116250,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116423.076923077,
+						3,
+						0
+					],
+					[
+						116480.769230769,
+						2,
+						0
+					],
+					[
+						116567.307692308,
+						0,
+						0
+					],
+					[
+						116769.230769231,
+						1,
+						0
+					],
+					[
+						116884.615384615,
+						2,
+						0
+					],
+					[
+						116971.153846154,
+						0,
+						0
+					],
+					[
+						117057.692307692,
+						2,
+						0
+					],
+					[
+						117173.076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						116826.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						116653.846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						116365.384615385,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						117692.307692308,
+						1,
+						0
+					],
+					[
+						118038.461538461,
+						3,
+						0
+					],
+					[
+						117576.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						117461.538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						117519.230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						117807.692307692,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						117923.076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						117807.692307692,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						118038.461538461,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						117461.538461538,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						117576.923076923,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						117288.461538461,
+						3,
+						0
+					],
+					[
+						117403.846153846,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118500,
+						0,
+						0
+					],
+					[
+						118846.153846154,
+						1,
+						0
+					],
+					[
+						118269.230769231,
+						1,
+						0
+					],
+					[
+						118384.615384615,
+						2,
+						0
+					],
+					[
+						118557.692307692,
+						3,
+						0
+					],
+					[
+						118615.384615385,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						118730.769230769,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						118211.538461538,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						118153.846153846,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						118961.538461538,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						119192.307692308,
+						3,
+						0
+					],
+					[
+						119307.692307692,
+						2,
+						0
+					],
+					[
+						119423.076923077,
+						0,
+						0
+					],
+					[
+						119730.288461538,
+						0,
+						0
+					],
+					[
+						119826.923076923,
+						2,
+						0
+					],
+					[
+						119942.307692308,
+						3,
+						0
+					],
+					[
+						119076.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						119538.461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						119586.057692308,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						119627.884615384,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						120346.153846154,
+						0,
+						0
+					],
+					[
+						120692.307692308,
+						1,
+						0
+					],
+					[
+						120115.384615384,
+						1,
+						0
+					],
+					[
+						120230.769230769,
+						2,
+						0
+					],
+					[
+						120403.846153846,
+						3,
+						0
+					],
+					[
+						120000,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						120057.692307692,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						120576.923076923,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						120461.538461538,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						120807.692307692,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						121038.461538461,
+						3,
+						0
+					],
+					[
+						121153.846153846,
+						2,
+						0
+					],
+					[
+						121269.230769231,
+						0,
+						0
+					],
+					[
+						121576.442307692,
+						0,
+						0
+					],
+					[
+						121673.076923077,
+						2,
+						0
+					],
+					[
+						121788.461538461,
+						3,
+						0
+					],
+					[
+						120923.076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						121384.615384615,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						121435.096153846,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						121474.038461538,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						122019.230769231,
+						3,
+						0
+					],
+					[
+						122480.769230769,
+						1,
+						0
+					],
+					[
+						122134.615384615,
+						2,
+						0
+					],
+					[
+						122365.384615385,
+						3,
+						0
+					],
+					[
+						122596.153846154,
+						0,
+						0
+					],
+					[
+						121903.846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						122250,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						122769.230769231,
+						3,
+						0
+					],
+					[
+						122826.923076923,
+						1,
+						0
+					],
+					[
+						123000,
+						3,
+						0
+					],
+					[
+						123115.384615385,
+						0,
+						0
+					],
+					[
+						123173.076923077,
+						2,
+						0
+					],
+					[
+						123288.461538461,
+						1,
+						0
+					],
+					[
+						123346.153846154,
+						0,
+						0
+					],
+					[
+						123461.538461538,
+						3,
+						0
+					],
+					[
+						123519.230769231,
+						1,
+						0
+					],
+					[
+						122884.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						122942.307692308,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						123057.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						123230.769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						123403.846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						123288.461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						123288.461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						123576.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						123634.615384615,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						123692.307692308,
+						0,
+						0
+					],
+					[
+						124269.230769231,
+						2,
+						0
+					],
+					[
+						124153.846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						124038.461538461,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						123923.076923077,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						123807.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						124442.307692308,
+						1,
+						0
+					],
+					[
+						124500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						124557.692307692,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						124384.615384615,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						124615.384615384,
+						1,
+						0
+					],
+					[
+						124673.076923077,
+						2,
+						0
+					],
+					[
+						124846.153846154,
+						0,
+						0
+					],
+					[
+						124903.846153846,
+						3,
+						0
+					],
+					[
+						125076.923076923,
+						1,
+						0
+					],
+					[
+						125192.307692308,
+						2,
+						0
+					],
+					[
+						125365.384615384,
+						0,
+						0
+					],
+					[
+						125423.076923077,
+						2,
+						0
+					],
+					[
+						124961.538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						124788.461538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						125134.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						125019.230769231,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						125250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						125307.692307692,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						125480.769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						124730.769230769,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						125884.615384615,
+						0,
+						0
+					],
+					[
+						126230.769230769,
+						1,
+						0
+					],
+					[
+						125653.846153846,
+						1,
+						0
+					],
+					[
+						125769.230769231,
+						2,
+						0
+					],
+					[
+						125942.307692308,
+						3,
+						0
+					],
+					[
+						126000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						126115.384615385,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						125596.153846154,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						125538.461538461,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						126346.153846154,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						126230.769230769,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						126346.153846154,
+						3,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127114.903846154,
+						0,
+						0
+					],
+					[
+						127211.538461538,
+						2,
+						0
+					],
+					[
+						127326.923076923,
+						3,
+						0
+					],
+					[
+						126461.538461538,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						126923.076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						126970.673076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						127012.5,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						126576.923076923,
+						0,
+						0
+					],
+					[
+						126692.307692308,
+						3,
+						0
+					],
+					[
+						126807.692307692,
+						2,
+						0
+					],
+					[
+						126461.538461538,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						126576.923076923,
+						3,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127730.769230769,
+						0,
+						0
+					],
+					[
+						128076.923076923,
+						1,
+						0
+					],
+					[
+						127500,
+						1,
+						0
+					],
+					[
+						127615.384615385,
+						2,
+						0
+					],
+					[
+						127788.461538461,
+						3,
+						0
+					],
+					[
+						127384.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						127442.307692308,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						127961.538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						127846.153846154,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						128192.307692308,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						128076.923076923,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						128192.307692308,
+						3,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						128961.057692308,
+						0,
+						0
+					],
+					[
+						129057.692307692,
+						2,
+						0
+					],
+					[
+						129173.076923077,
+						3,
+						0
+					],
+					[
+						128307.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						128769.230769231,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						128819.711538461,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						128858.653846154,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						128423.076923077,
+						0,
+						0
+					],
+					[
+						128538.461538461,
+						3,
+						0
+					],
+					[
+						128653.846153846,
+						2,
+						0
+					],
+					[
+						128307.692307692,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						128423.076923077,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						128596.153846154,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						128942.307692308,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						129173.076923077,
+						0,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						129403.846153846,
+						1,
+						0
+					],
+					[
+						129519.230769231,
+						2,
+						0
+					],
+					[
+						129750,
+						1,
+						0
+					],
+					[
+						129980.769230769,
+						2,
+						0
+					],
+					[
+						129634.615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						129288.461538461,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						129865.384615384,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						130153.846153846,
+						0,
+						0
+					],
+					[
+						130211.538461538,
+						2,
+						0
+					],
+					[
+						130384.615384615,
+						0,
+						0
+					],
+					[
+						130500,
+						3,
+						0
+					],
+					[
+						130557.692307692,
+						1,
+						0
+					],
+					[
+						130673.076923077,
+						2,
+						0
+					],
+					[
+						130730.769230769,
+						3,
+						0
+					],
+					[
+						130846.153846154,
+						0,
+						0
+					],
+					[
+						130903.846153846,
+						2,
+						0
+					],
+					[
+						130269.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						130326.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						130442.307692308,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						130615.384615385,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						130788.461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						130673.076923077,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						130673.076923077,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						130961.538461538,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						131019.230769231,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						131076.923076923,
+						0,
+						0
+					],
+					[
+						131653.846153846,
+						2,
+						0
+					],
+					[
+						131942.307692308,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						131884.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						131826.923076923,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						131769.230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						131538.461538461,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						131423.076923077,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						131307.692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						131192.307692308,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						132692.307692308,
+						3,
+						173.076923076923
+					],
+					[
+						132461.538461538,
+						0,
+						173.076923076923
+					],
+					[
+						132000,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						132115.384615385,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						132346.153846154,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						132519.230769231,
+						1,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						132634.615384615,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						132750,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						132865.384615385,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						132057.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						132173.076923077,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						132230.769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						132288.461538461,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						132403.846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						132346.153846154,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						132115.384615385,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						132000,
+						2,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						133153.846153846,
+						3,
+						0
+					],
+					[
+						133211.538461538,
+						1,
+						0
+					],
+					[
+						133459.615384615,
+						0,
+						0
+					],
+					[
+						133673.076923077,
+						1,
+						0
+					],
+					[
+						133788.461538461,
+						0,
+						0
+					],
+					[
+						132923.076923077,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						133096.153846154,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						133021.153846154,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						133384.615384615,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						133557.692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						133615.384615385,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						134596.153846154,
+						2,
+						0
+					],
+					[
+						134711.538461538,
+						1,
+						0
+					],
+					[
+						133903.846153846,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						134019.230769231,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						134134.615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						134365.384615385,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						134480.769230769,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						134250,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						135057.692307692,
+						2,
+						0
+					],
+					[
+						135173.076923077,
+						1,
+						0
+					],
+					[
+						135576.923076923,
+						2,
+						0
+					],
+					[
+						134826.923076923,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						134884.615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						134942.307692308,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						135000,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						135346.153846154,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						135461.538461538,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						135519.230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						135403.846153846,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						135692.307692308,
+						0,
+						0
+					],
+					[
+						136038.461538461,
+						1,
+						0
+					],
+					[
+						135807.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						135923.076923077,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						136153.846153846,
+						2,
+						0
+					],
+					[
+						136384.615384615,
+						2,
+						0
+					],
+					[
+						136269.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						136500,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						136673.076923077,
+						1,
+						0
+					],
+					[
+						136788.461538461,
+						3,
+						0
+					],
+					[
+						137019.230769231,
+						0,
+						0
+					],
+					[
+						137134.615384615,
+						3,
+						0
+					],
+					[
+						137365.384615385,
+						0,
+						0
+					],
+					[
+						136903.846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						137250,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						138057.692307692,
+						1,
+						0
+					],
+					[
+						137653.846153846,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						137711.538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						137826.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						138000,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						138173.076923077,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						138057.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						138057.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						138346.153846154,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						138403.846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						138115.384615385,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						138288.461538462,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						138230.769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						137942.307692308,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						137884.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						137596.153846154,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						137769.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						137538.461538462,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						138634.615384615,
+						1,
+						0
+					],
+					[
+						138750,
+						3,
+						0
+					],
+					[
+						138865.384615385,
+						0,
+						0
+					],
+					[
+						139096.153846154,
+						3,
+						0
+					],
+					[
+						138980.769230769,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						138519.230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						139211.538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						139269.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						139326.923076923,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						139384.615384615,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						139442.307692308,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						139500,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						139557.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						139730.769230769,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						140250,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						140192.307692308,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						140076.923076923,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						140019.230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						139673.076923077,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						139615.384615385,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						139961.538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						139903.846153846,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						139846.153846154,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						139788.461538462,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						140134.615384615,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						140538.461538462,
+						3,
+						0
+					],
+					[
+						140596.153846154,
+						1,
+						0
+					],
+					[
+						140844.230769231,
+						0,
+						0
+					],
+					[
+						141057.692307692,
+						1,
+						0
+					],
+					[
+						141173.076923077,
+						0,
+						0
+					],
+					[
+						140307.692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						140480.769230769,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						140401.442307692,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						140769.230769231,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						140942.307692308,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						141000,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						141980.769230769,
+						2,
+						0
+					],
+					[
+						142096.153846154,
+						1,
+						0
+					],
+					[
+						141288.461538462,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						141403.846153846,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						141519.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						141750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						141865.384615385,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						141634.615384615,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						142442.307692308,
+						2,
+						0
+					],
+					[
+						142557.692307692,
+						1,
+						0
+					],
+					[
+						142961.538461538,
+						2,
+						0
+					],
+					[
+						142384.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						142326.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						142269.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						142211.538461538,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						142788.461538462,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						142903.846153846,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						142846.153846154,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						142730.769230769,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						143076.923076923,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						143192.307692308,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						143307.692307692,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						143423.076923077,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						143076.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						143307.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						143423.076923077,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						143538.461538462,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						143596.153846154,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						143192.307692308,
+						0,
+						0
+					],
+					[
+						143711.538461538,
+						3,
+						0
+					],
+					[
+						143826.923076923,
+						1,
+						0
+					],
+					[
+						143942.307692308,
+						0,
+						0
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						144634.615384615,
+						1,
+						0
+					],
+					[
+						144173.076923077,
+						3,
+						0
+					],
+					[
+						144403.846153846,
+						0,
+						0
+					],
+					[
+						144519.230769231,
+						3,
+						0
+					],
+					[
+						144288.461538461,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						144750,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						144057.692307692,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						145038.461538462,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						145096.153846154,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						145211.538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						145384.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						145557.692307692,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						145730.769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						145788.461538462,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						144980.769230769,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						144923.076923077,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						145153.846153846,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						145269.230769231,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						145326.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						145500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						145673.076923077,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						145615.384615385,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						145442.307692308,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						146019.230769231,
+						1,
+						0
+					],
+					[
+						146134.615384615,
+						3,
+						0
+					],
+					[
+						146250,
+						0,
+						0
+					],
+					[
+						146480.769230769,
+						3,
+						0
+					],
+					[
+						146653.846153846,
+						3,
+						0
+					],
+					[
+						146711.538461538,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						146596.153846154,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						146365.384615385,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						145903.846153846,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						146134.615384615,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						146480.769230769,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						146596.153846154,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						146711.538461539,
+						1,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						147461.538461539,
+						3,
+						173.076923076923
+					],
+					[
+						146769.230769231,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						146826.923076923,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						147230.769230769,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						147288.461538462,
+						0,
+						131.868131868132
+					],
+					[
+						146884.615384615,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						146942.307692308,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						147000,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						147057.692307692,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						147115.384615385,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						147173.076923077,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						146769.230769231,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						146884.615384615,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						147057.692307692,
+						0,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						147173.076923077,
+						1,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						147288.461538462,
+						1,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						147461.538461539,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						147461.538461539,
+						1,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						147288.461538462,
+						2,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						147692.307692308,
+						1,
+						1714.28571428572
+					],
+					[
+						147692.307692308,
+						3,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						147692.307692308,
+						2,
+						0,
+						"Homicide Grenade"
+					],
+					[
+						147692.307692308,
+						0,
+						0,
+						"Homicide Grenade"
+					]
+				],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 0
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 220
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 220,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 220
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 220
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 220
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 220,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 220,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 220,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 220,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 220,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 227.5
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 227.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"player2": "flippy-blood-fullmetal",
+		"splashSkin": "noteSplashes",
+		"song": "Slaughter-Guerrilla",
+		"arrowSkin": "",
+		"validScore": true,
+		"stage": "blood-fullmetal",
+		"needsVoices": true,
+		"sections": 0,
+		"bpm": 227.5,
+		"speed": 3.2
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"storyName": "Operation Tiger Bomb",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "kapow",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Alt_story",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"scope",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"unhinged",
+			"crazy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"kapow",
+			"kapow",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"overkill",
+			"kapow",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"extinction",
+			"tactie",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Alt-Week",
+	"hiddenUntilUnlocked": false
+}

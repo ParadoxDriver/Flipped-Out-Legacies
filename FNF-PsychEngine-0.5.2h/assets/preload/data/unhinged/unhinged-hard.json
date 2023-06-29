@@ -1,0 +1,15156 @@
+{
+	"song": {
+		"player1": "blaze-tigerbf",
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						22800,
+						2,
+						937.5
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24000,
+						0,
+						0
+					],
+					[
+						24300,
+						1,
+						0
+					],
+					[
+						24450,
+						2,
+						0
+					],
+					[
+						24600,
+						0,
+						0
+					],
+					[
+						24900,
+						3,
+						0
+					],
+					[
+						25050,
+						1,
+						0
+					],
+					[
+						24150,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						24750,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						25350,
+						1,
+						0
+					],
+					[
+						25500,
+						0,
+						0
+					],
+					[
+						25650,
+						3,
+						0
+					],
+					[
+						25950,
+						0,
+						0
+					],
+					[
+						26100,
+						3,
+						0
+					],
+					[
+						26175,
+						2,
+						0
+					],
+					[
+						26325,
+						1,
+						0
+					],
+					[
+						25200,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						25800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						26250,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						26550,
+						1,
+						0
+					],
+					[
+						26700,
+						3,
+						0
+					],
+					[
+						27150,
+						3,
+						0
+					],
+					[
+						27375,
+						1,
+						0
+					],
+					[
+						27450,
+						2,
+						0
+					],
+					[
+						26400,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						26850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						27300,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						27525,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						27000,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						27600,
+						2,
+						150
+					],
+					[
+						27825,
+						3,
+						150
+					],
+					[
+						28050,
+						1,
+						150
+					],
+					[
+						28275,
+						0,
+						150
+					],
+					[
+						28500,
+						2,
+						0
+					],
+					[
+						28650,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						28800,
+						0,
+						0
+					],
+					[
+						29100,
+						1,
+						0
+					],
+					[
+						29250,
+						2,
+						0
+					],
+					[
+						29400,
+						0,
+						0
+					],
+					[
+						29700,
+						3,
+						0
+					],
+					[
+						29850,
+						1,
+						0
+					],
+					[
+						28950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						29550,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30150,
+						1,
+						0
+					],
+					[
+						30300,
+						0,
+						0
+					],
+					[
+						30450,
+						3,
+						0
+					],
+					[
+						30750,
+						0,
+						0
+					],
+					[
+						30900,
+						3,
+						0
+					],
+					[
+						30975,
+						2,
+						0
+					],
+					[
+						31125,
+						1,
+						0
+					],
+					[
+						30000,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						31050,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						30600,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						31350,
+						1,
+						0
+					],
+					[
+						31950,
+						3,
+						0
+					],
+					[
+						32175,
+						1,
+						0
+					],
+					[
+						32250,
+						2,
+						0
+					],
+					[
+						31200,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						31800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						32100,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						32325,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						31650,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						31500,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						32400,
+						2,
+						150
+					],
+					[
+						32625,
+						3,
+						150
+					],
+					[
+						32850,
+						1,
+						150
+					],
+					[
+						33075,
+						0,
+						150
+					],
+					[
+						33300,
+						1,
+						0
+					],
+					[
+						33450,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						33600,
+						2,
+						0
+					],
+					[
+						33750,
+						1,
+						0
+					],
+					[
+						33900,
+						3,
+						0
+					],
+					[
+						34200,
+						1,
+						0
+					],
+					[
+						34650,
+						3,
+						0
+					],
+					[
+						34050,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						34350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						34500,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						34875,
+						1,
+						0
+					],
+					[
+						34950,
+						2,
+						0
+					],
+					[
+						35100,
+						0,
+						0
+					],
+					[
+						35325,
+						3,
+						0
+					],
+					[
+						35400,
+						1,
+						0
+					],
+					[
+						35550,
+						0,
+						0
+					],
+					[
+						35850,
+						3,
+						0
+					],
+					[
+						34800,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						35025,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						35250,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						35175,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						35700,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						36000,
+						2,
+						0
+					],
+					[
+						36300,
+						3,
+						0
+					],
+					[
+						36600,
+						2,
+						0
+					],
+					[
+						36675,
+						1,
+						0
+					],
+					[
+						36900,
+						2,
+						0
+					],
+					[
+						36975,
+						1,
+						0
+					],
+					[
+						36150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						36450,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						36750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						36825,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						37050,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						37125,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						37200,
+						2,
+						225
+					],
+					[
+						37500,
+						0,
+						225
+					],
+					[
+						37800,
+						1,
+						225
+					],
+					[
+						38100,
+						3,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						38400,
+						2,
+						0
+					],
+					[
+						38550,
+						1,
+						0
+					],
+					[
+						38700,
+						3,
+						0
+					],
+					[
+						39000,
+						1,
+						0
+					],
+					[
+						39450,
+						3,
+						0
+					],
+					[
+						38850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						39150,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						39300,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						39675,
+						1,
+						0
+					],
+					[
+						39750,
+						2,
+						0
+					],
+					[
+						39900,
+						0,
+						0
+					],
+					[
+						40125,
+						3,
+						0
+					],
+					[
+						40200,
+						1,
+						0
+					],
+					[
+						40350,
+						0,
+						0
+					],
+					[
+						40650,
+						3,
+						0
+					],
+					[
+						39600,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						39825,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						40050,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						39975,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						40500,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						40800,
+						2,
+						0
+					],
+					[
+						41100,
+						3,
+						0
+					],
+					[
+						41250,
+						1,
+						0
+					],
+					[
+						41400,
+						2,
+						0
+					],
+					[
+						41475,
+						1,
+						0
+					],
+					[
+						41700,
+						2,
+						0
+					],
+					[
+						40950,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						41550,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						41850,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						41775,
+						1,
+						0
+					],
+					[
+						41925,
+						1,
+						0
+					],
+					[
+						41625,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						42000,
+						2,
+						225
+					],
+					[
+						42300,
+						0,
+						225
+					],
+					[
+						42600,
+						1,
+						225
+					],
+					[
+						42900,
+						3,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						43500,
+						1,
+						75
+					],
+					[
+						43650,
+						3,
+						75
+					],
+					[
+						43800,
+						1,
+						75
+					],
+					[
+						43950,
+						0,
+						225
+					],
+					[
+						44250,
+						2,
+						825
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						46350,
+						0,
+						0
+					],
+					[
+						46200,
+						1,
+						0
+					],
+					[
+						46050,
+						3,
+						0
+					],
+					[
+						45900,
+						1,
+						0
+					],
+					[
+						46650,
+						2,
+						150
+					],
+					[
+						46500,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						46950,
+						2,
+						0
+					],
+					[
+						47100,
+						1,
+						0
+					],
+					[
+						47250,
+						2,
+						0
+					],
+					[
+						47400,
+						3,
+						0
+					],
+					[
+						47550,
+						0,
+						0
+					],
+					[
+						47850,
+						2,
+						0
+					],
+					[
+						47700,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						48300,
+						1,
+						75
+					],
+					[
+						48450,
+						3,
+						75
+					],
+					[
+						48600,
+						1,
+						75
+					],
+					[
+						48750,
+						0,
+						225
+					],
+					[
+						49050,
+						2,
+						825
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						51150,
+						0,
+						0
+					],
+					[
+						51000,
+						1,
+						0
+					],
+					[
+						50850,
+						3,
+						0
+					],
+					[
+						50700,
+						1,
+						0
+					],
+					[
+						51450,
+						2,
+						150
+					],
+					[
+						51300,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						51750,
+						2,
+						0
+					],
+					[
+						51900,
+						1,
+						0
+					],
+					[
+						52050,
+						2,
+						0
+					],
+					[
+						52200,
+						3,
+						0
+					],
+					[
+						52350,
+						0,
+						0
+					],
+					[
+						52650,
+						2,
+						0
+					],
+					[
+						52500,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						52800,
+						2,
+						0
+					],
+					[
+						53250,
+						2,
+						0
+					],
+					[
+						53550,
+						3,
+						0
+					],
+					[
+						53850,
+						1,
+						0
+					],
+					[
+						52950,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						53100,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						53400,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						53700,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						54000,
+						2,
+						225
+					],
+					[
+						54300,
+						3,
+						225
+					],
+					[
+						54600,
+						0,
+						225
+					],
+					[
+						54900,
+						1,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						55200,
+						2,
+						0
+					],
+					[
+						55800,
+						1,
+						0
+					],
+					[
+						56250,
+						1,
+						0
+					],
+					[
+						55350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						55650,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						55950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						56100,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						55500,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						56550,
+						1,
+						0
+					],
+					[
+						56850,
+						0,
+						0
+					],
+					[
+						57450,
+						1,
+						0
+					],
+					[
+						56400,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						56700,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						57000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						57150,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						57300,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						57600,
+						2,
+						0
+					],
+					[
+						58050,
+						2,
+						0
+					],
+					[
+						58350,
+						3,
+						0
+					],
+					[
+						58650,
+						1,
+						0
+					],
+					[
+						57750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						57900,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						58200,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						58500,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						58800,
+						2,
+						225
+					],
+					[
+						59100,
+						3,
+						225
+					],
+					[
+						59400,
+						0,
+						225
+					],
+					[
+						59700,
+						1,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						60000,
+						2,
+						0
+					],
+					[
+						60600,
+						1,
+						0
+					],
+					[
+						61050,
+						1,
+						0
+					],
+					[
+						60150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						60450,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						60750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						60900,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						60300,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						61350,
+						1,
+						0
+					],
+					[
+						61650,
+						0,
+						0
+					],
+					[
+						62250,
+						1,
+						0
+					],
+					[
+						61200,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						61500,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						61800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						61950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						62100,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						62550,
+						1,
+						0
+					],
+					[
+						62850,
+						1,
+						0
+					],
+					[
+						63150,
+						1,
+						0
+					],
+					[
+						63300,
+						3,
+						0
+					],
+					[
+						63450,
+						0,
+						0
+					],
+					[
+						63000,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						62400,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						62700,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						63600,
+						1,
+						0
+					],
+					[
+						63750,
+						3,
+						0
+					],
+					[
+						63900,
+						2,
+						0
+					],
+					[
+						64050,
+						1,
+						0
+					],
+					[
+						64125,
+						3,
+						0
+					],
+					[
+						64350,
+						0,
+						0
+					],
+					[
+						64500,
+						1,
+						0
+					],
+					[
+						64650,
+						3,
+						0
+					],
+					[
+						63825,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						63975,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						63675,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						64200,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						64875,
+						1,
+						0
+					],
+					[
+						65100,
+						2,
+						0
+					],
+					[
+						65250,
+						1,
+						0
+					],
+					[
+						65400,
+						3,
+						0
+					],
+					[
+						65550,
+						1,
+						0
+					],
+					[
+						65850,
+						1,
+						0
+					],
+					[
+						64800,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						65025,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						64950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						65175,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						65325,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						65700,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						66000,
+						2,
+						0
+					],
+					[
+						66300,
+						1,
+						0
+					],
+					[
+						66600,
+						2,
+						0
+					],
+					[
+						66900,
+						0,
+						0
+					],
+					[
+						67050,
+						2,
+						0
+					],
+					[
+						66750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						66450,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						66150,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						67200,
+						7,
+						525
+					],
+					[
+						67350,
+						1,
+						0
+					],
+					[
+						67650,
+						1,
+						0
+					],
+					[
+						67950,
+						1,
+						0
+					],
+					[
+						68100,
+						3,
+						0
+					],
+					[
+						68250,
+						0,
+						0
+					],
+					[
+						67200,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						67800,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						67500,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						68400,
+						1,
+						0
+					],
+					[
+						68550,
+						3,
+						0
+					],
+					[
+						68700,
+						2,
+						0
+					],
+					[
+						68850,
+						1,
+						0
+					],
+					[
+						68925,
+						3,
+						0
+					],
+					[
+						69150,
+						0,
+						0
+					],
+					[
+						69300,
+						1,
+						0
+					],
+					[
+						69450,
+						3,
+						0
+					],
+					[
+						68625,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						68775,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						68475,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						69000,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						69675,
+						1,
+						0
+					],
+					[
+						69900,
+						2,
+						0
+					],
+					[
+						70050,
+						1,
+						0
+					],
+					[
+						70200,
+						3,
+						0
+					],
+					[
+						70350,
+						1,
+						0
+					],
+					[
+						70650,
+						1,
+						0
+					],
+					[
+						69600,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						69825,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						69750,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						69975,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						70125,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						70500,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						70800,
+						2,
+						0
+					],
+					[
+						71100,
+						1,
+						0
+					],
+					[
+						71400,
+						2,
+						0
+					],
+					[
+						71700,
+						0,
+						0
+					],
+					[
+						71850,
+						2,
+						0
+					],
+					[
+						71550,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						71250,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						70950,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						72000,
+						2,
+						225
+					],
+					[
+						72300,
+						1,
+						225
+					],
+					[
+						72600,
+						3,
+						225
+					],
+					[
+						72900,
+						0,
+						225
+					],
+					[
+						72000,
+						7,
+						525
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						73200,
+						1,
+						225
+					],
+					[
+						73500,
+						3,
+						225
+					],
+					[
+						73800,
+						2,
+						225
+					],
+					[
+						74100,
+						0,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						74550,
+						1,
+						0
+					],
+					[
+						74850,
+						2,
+						0
+					],
+					[
+						75150,
+						3,
+						0
+					],
+					[
+						75000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						74700,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						75300,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						74400,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						75450,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						75600,
+						0,
+						225
+					],
+					[
+						75900,
+						2,
+						225
+					],
+					[
+						76200,
+						1,
+						225
+					],
+					[
+						76500,
+						3,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						77400,
+						3,
+						225
+					],
+					[
+						77700,
+						0,
+						225
+					],
+					[
+						76800,
+						1,
+						225
+					],
+					[
+						77100,
+						2,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						78900,
+						0,
+						225
+					],
+					[
+						78000,
+						2,
+						225
+					],
+					[
+						78300,
+						1,
+						225
+					],
+					[
+						78600,
+						3,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						79350,
+						1,
+						0
+					],
+					[
+						79650,
+						2,
+						0
+					],
+					[
+						79950,
+						3,
+						0
+					],
+					[
+						79200,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						79800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						79500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						80100,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						80250,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						81000,
+						1,
+						225
+					],
+					[
+						80400,
+						0,
+						225
+					],
+					[
+						80700,
+						2,
+						225
+					],
+					[
+						81300,
+						3,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						81600,
+						0,
+						0
+					],
+					[
+						81900,
+						2,
+						0
+					],
+					[
+						82200,
+						2,
+						0
+					],
+					[
+						82500,
+						0,
+						0
+					],
+					[
+						81750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						82050,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						82350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						82650,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						81600,
+						6,
+						1125
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						82800,
+						3,
+						225
+					],
+					[
+						83100,
+						1,
+						0
+					],
+					[
+						83400,
+						3,
+						0
+					],
+					[
+						83700,
+						1,
+						0
+					],
+					[
+						82800,
+						4,
+						1125
+					],
+					[
+						83250,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						83550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						83850,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						84000,
+						7,
+						375
+					],
+					[
+						84450,
+						5,
+						375
+					],
+					[
+						84900,
+						7,
+						225
+					],
+					[
+						84000,
+						1,
+						225
+					],
+					[
+						84525,
+						1,
+						0
+					],
+					[
+						84600,
+						2,
+						75
+					],
+					[
+						84900,
+						1,
+						0
+					],
+					[
+						85050,
+						0,
+						0
+					],
+					[
+						84450,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						84750,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						85200,
+						5,
+						0
+					],
+					[
+						85500,
+						5,
+						0
+					],
+					[
+						85800,
+						5,
+						0
+					],
+					[
+						86100,
+						5,
+						0
+					],
+					[
+						85350,
+						3,
+						0
+					],
+					[
+						85800,
+						1,
+						0
+					],
+					[
+						85950,
+						2,
+						0
+					],
+					[
+						86250,
+						3,
+						0
+					],
+					[
+						85200,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						85500,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						85650,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						85650,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						85350,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						85950,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						86100,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						86250,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						86550,
+						6,
+						0
+					],
+					[
+						86850,
+						6,
+						0
+					],
+					[
+						87150,
+						6,
+						0
+					],
+					[
+						87450,
+						7,
+						0
+					],
+					[
+						86400,
+						2,
+						225
+					],
+					[
+						86700,
+						1,
+						225
+					],
+					[
+						87000,
+						0,
+						225
+					],
+					[
+						87300,
+						2,
+						225
+					],
+					[
+						87000,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						87300,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						86700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						86400,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						87825,
+						5,
+						150
+					],
+					[
+						87900,
+						2,
+						0
+					],
+					[
+						87825,
+						1,
+						0
+					],
+					[
+						88200,
+						3,
+						75
+					],
+					[
+						88350,
+						2,
+						75
+					],
+					[
+						88500,
+						0,
+						75
+					],
+					[
+						88650,
+						1,
+						75
+					],
+					[
+						87600,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						88125,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						88650,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						88050,
+						7,
+						150
+					],
+					[
+						87600,
+						4,
+						150
+					],
+					[
+						88275,
+						4,
+						150
+					],
+					[
+						88500,
+						6,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						88950,
+						5,
+						0
+					],
+					[
+						89250,
+						5,
+						0
+					],
+					[
+						89400,
+						7,
+						0
+					],
+					[
+						89700,
+						7,
+						0
+					],
+					[
+						89850,
+						4,
+						0
+					],
+					[
+						88875,
+						1,
+						0
+					],
+					[
+						89100,
+						1,
+						0
+					],
+					[
+						89325,
+						1,
+						0
+					],
+					[
+						89400,
+						0,
+						0
+					],
+					[
+						89550,
+						2,
+						0
+					],
+					[
+						89025,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						88950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						88800,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						89175,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						89100,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						88800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						89550,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						89475,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						89250,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						89625,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						89700,
+						0,
+						0
+					],
+					[
+						89850,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						90000,
+						6,
+						225
+					],
+					[
+						90300,
+						7,
+						225
+					],
+					[
+						90600,
+						6,
+						225
+					],
+					[
+						90900,
+						4,
+						225
+					],
+					[
+						90000,
+						0,
+						225
+					],
+					[
+						90600,
+						1,
+						225
+					],
+					[
+						90300,
+						2,
+						225
+					],
+					[
+						90900,
+						3,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						91500,
+						2,
+						0
+					],
+					[
+						91800,
+						2,
+						0
+					],
+					[
+						92100,
+						0,
+						0
+					],
+					[
+						91350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						91650,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						91950,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						92250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						91200,
+						6,
+						975
+					],
+					[
+						91200,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						92400,
+						3,
+						225
+					],
+					[
+						92700,
+						1,
+						0
+					],
+					[
+						93000,
+						3,
+						0
+					],
+					[
+						93300,
+						1,
+						0
+					],
+					[
+						92850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						93150,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						93450,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						92400,
+						4,
+						1050
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						93600,
+						7,
+						375
+					],
+					[
+						94050,
+						5,
+						375
+					],
+					[
+						94500,
+						7,
+						225
+					],
+					[
+						93600,
+						1,
+						225
+					],
+					[
+						94125,
+						1,
+						0
+					],
+					[
+						94200,
+						2,
+						75
+					],
+					[
+						94500,
+						1,
+						0
+					],
+					[
+						94650,
+						0,
+						0
+					],
+					[
+						94050,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						94350,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						94800,
+						5,
+						0
+					],
+					[
+						95100,
+						5,
+						0
+					],
+					[
+						95400,
+						5,
+						0
+					],
+					[
+						95700,
+						5,
+						0
+					],
+					[
+						94950,
+						3,
+						0
+					],
+					[
+						95400,
+						1,
+						0
+					],
+					[
+						95550,
+						2,
+						0
+					],
+					[
+						95850,
+						3,
+						0
+					],
+					[
+						94800,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						95100,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						95250,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						95250,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						94950,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						95550,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						95700,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						95850,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						96150,
+						6,
+						0
+					],
+					[
+						96450,
+						6,
+						0
+					],
+					[
+						96750,
+						6,
+						0
+					],
+					[
+						97050,
+						7,
+						0
+					],
+					[
+						96000,
+						2,
+						225
+					],
+					[
+						96300,
+						1,
+						225
+					],
+					[
+						96600,
+						0,
+						225
+					],
+					[
+						96900,
+						2,
+						225
+					],
+					[
+						96600,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						96900,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						96300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						96000,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						97425,
+						5,
+						150
+					],
+					[
+						97500,
+						2,
+						0
+					],
+					[
+						97425,
+						1,
+						0
+					],
+					[
+						97800,
+						3,
+						75
+					],
+					[
+						97950,
+						2,
+						75
+					],
+					[
+						98100,
+						0,
+						75
+					],
+					[
+						98250,
+						1,
+						75
+					],
+					[
+						98250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						97725,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						97200,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						97200,
+						4,
+						150
+					],
+					[
+						97650,
+						7,
+						150
+					],
+					[
+						97875,
+						4,
+						150
+					],
+					[
+						98100,
+						6,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						98550,
+						5,
+						0
+					],
+					[
+						98850,
+						5,
+						0
+					],
+					[
+						99000,
+						7,
+						0
+					],
+					[
+						99300,
+						7,
+						0
+					],
+					[
+						99450,
+						4,
+						0
+					],
+					[
+						98475,
+						1,
+						0
+					],
+					[
+						98700,
+						1,
+						0
+					],
+					[
+						98925,
+						1,
+						0
+					],
+					[
+						99000,
+						0,
+						0
+					],
+					[
+						99150,
+						2,
+						0
+					],
+					[
+						98625,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						98550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						98400,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						98775,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						98700,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						98400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						99150,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						99075,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						98850,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						99225,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						99300,
+						0,
+						0
+					],
+					[
+						99450,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						99600,
+						6,
+						225
+					],
+					[
+						99900,
+						7,
+						225
+					],
+					[
+						100200,
+						6,
+						225
+					],
+					[
+						100500,
+						4,
+						225
+					],
+					[
+						99900,
+						3,
+						225
+					],
+					[
+						99600,
+						0,
+						225
+					],
+					[
+						100200,
+						1,
+						225
+					],
+					[
+						100500,
+						2,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						100950,
+						6,
+						0
+					],
+					[
+						101250,
+						6,
+						0
+					],
+					[
+						101550,
+						6,
+						0
+					],
+					[
+						101850,
+						6,
+						0
+					],
+					[
+						100800,
+						1,
+						0
+					],
+					[
+						101100,
+						2,
+						0
+					],
+					[
+						101400,
+						0,
+						0
+					],
+					[
+						101700,
+						2,
+						0
+					],
+					[
+						101250,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						100950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						101100,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						101400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						101700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						100800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						101550,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						101850,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						102150,
+						6,
+						0
+					],
+					[
+						102450,
+						6,
+						0
+					],
+					[
+						102750,
+						6,
+						0
+					],
+					[
+						103050,
+						6,
+						0
+					],
+					[
+						102150,
+						3,
+						0
+					],
+					[
+						102450,
+						2,
+						0
+					],
+					[
+						102750,
+						1,
+						0
+					],
+					[
+						102900,
+						2,
+						0
+					],
+					[
+						102300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						102600,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						102900,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						103050,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						102600,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						102000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						102000,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						103350,
+						5,
+						0
+					],
+					[
+						103800,
+						6,
+						0
+					],
+					[
+						103950,
+						5,
+						0
+					],
+					[
+						103200,
+						1,
+						0
+					],
+					[
+						103350,
+						3,
+						0
+					],
+					[
+						104100,
+						2,
+						0
+					],
+					[
+						103500,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						104100,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						104250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						104250,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						103650,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						103650,
+						1,
+						0
+					],
+					[
+						103800,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						103200,
+						4,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						104850,
+						6,
+						0
+					],
+					[
+						105150,
+						6,
+						0
+					],
+					[
+						104400,
+						2,
+						225
+					],
+					[
+						104700,
+						0,
+						225
+					],
+					[
+						105000,
+						1,
+						225
+					],
+					[
+						105300,
+						3,
+						225
+					],
+					[
+						104700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						105000,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						105300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						104400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						105450,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						104550,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						105750,
+						5,
+						0
+					],
+					[
+						106050,
+						5,
+						0
+					],
+					[
+						106350,
+						5,
+						0
+					],
+					[
+						106650,
+						5,
+						0
+					],
+					[
+						106050,
+						0,
+						0
+					],
+					[
+						106350,
+						3,
+						0
+					],
+					[
+						105900,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						105600,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						105900,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						105600,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						106200,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						106500,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						106500,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						105750,
+						2,
+						0
+					],
+					[
+						106650,
+						2,
+						0
+					],
+					[
+						106200,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						106950,
+						5,
+						0
+					],
+					[
+						107100,
+						4,
+						0
+					],
+					[
+						107400,
+						7,
+						0
+					],
+					[
+						107700,
+						4,
+						0
+					],
+					[
+						106800,
+						0,
+						0
+					],
+					[
+						107175,
+						3,
+						0
+					],
+					[
+						107250,
+						0,
+						0
+					],
+					[
+						107400,
+						3,
+						0
+					],
+					[
+						107700,
+						0,
+						0
+					],
+					[
+						107025,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						106950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						107475,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						107625,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						107850,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						107850,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						107550,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						107250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						106800,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						107325,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						107775,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						107550,
+						1,
+						0
+					],
+					[
+						107100,
+						1,
+						0
+					],
+					[
+						106875,
+						1,
+						0
+					],
+					[
+						107925,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						108150,
+						7,
+						0
+					],
+					[
+						108300,
+						5,
+						0
+					],
+					[
+						108600,
+						6,
+						0
+					],
+					[
+						108750,
+						7,
+						0
+					],
+					[
+						109050,
+						7,
+						0
+					],
+					[
+						108000,
+						0,
+						0
+					],
+					[
+						108300,
+						2,
+						0
+					],
+					[
+						108600,
+						2,
+						0
+					],
+					[
+						108750,
+						1,
+						0
+					],
+					[
+						109050,
+						1,
+						0
+					],
+					[
+						108450,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						108900,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						108150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						108450,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						108900,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						108000,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						109200,
+						4,
+						0
+					],
+					[
+						109500,
+						6,
+						0
+					],
+					[
+						109950,
+						5,
+						0
+					],
+					[
+						110100,
+						6,
+						0
+					],
+					[
+						109200,
+						2,
+						0
+					],
+					[
+						109500,
+						1,
+						0
+					],
+					[
+						109650,
+						2,
+						0
+					],
+					[
+						109950,
+						1,
+						0
+					],
+					[
+						110250,
+						1,
+						0
+					],
+					[
+						109800,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						109350,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						109800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						110100,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						110250,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						109650,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						109350,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						110550,
+						6,
+						0
+					],
+					[
+						110850,
+						6,
+						0
+					],
+					[
+						111150,
+						6,
+						0
+					],
+					[
+						111450,
+						6,
+						0
+					],
+					[
+						110400,
+						1,
+						0
+					],
+					[
+						110700,
+						2,
+						0
+					],
+					[
+						111000,
+						0,
+						0
+					],
+					[
+						111300,
+						2,
+						0
+					],
+					[
+						110850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						110550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						110700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						111000,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						111300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						110400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						111150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						111450,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						111750,
+						6,
+						0
+					],
+					[
+						112050,
+						6,
+						0
+					],
+					[
+						112350,
+						6,
+						0
+					],
+					[
+						112650,
+						6,
+						0
+					],
+					[
+						111750,
+						3,
+						0
+					],
+					[
+						112050,
+						2,
+						0
+					],
+					[
+						112350,
+						1,
+						0
+					],
+					[
+						112500,
+						2,
+						0
+					],
+					[
+						111900,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						112200,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						112500,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						112650,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						112200,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						111600,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						111600,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						112950,
+						5,
+						0
+					],
+					[
+						113400,
+						6,
+						0
+					],
+					[
+						113550,
+						5,
+						0
+					],
+					[
+						112800,
+						1,
+						0
+					],
+					[
+						112950,
+						3,
+						0
+					],
+					[
+						113700,
+						2,
+						0
+					],
+					[
+						113100,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						113700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						113850,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						113850,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						113250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						113250,
+						1,
+						0
+					],
+					[
+						113400,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						112800,
+						4,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						114450,
+						6,
+						0
+					],
+					[
+						114750,
+						6,
+						0
+					],
+					[
+						114000,
+						2,
+						225
+					],
+					[
+						114300,
+						0,
+						225
+					],
+					[
+						114600,
+						1,
+						225
+					],
+					[
+						114900,
+						3,
+						225
+					],
+					[
+						114300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						114600,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						114900,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						114000,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						115050,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						114150,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						115350,
+						5,
+						0
+					],
+					[
+						115650,
+						5,
+						0
+					],
+					[
+						115950,
+						5,
+						0
+					],
+					[
+						116250,
+						5,
+						0
+					],
+					[
+						115650,
+						0,
+						0
+					],
+					[
+						115950,
+						3,
+						0
+					],
+					[
+						115500,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						115200,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						115500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						115200,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						115800,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						116100,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						116100,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						115350,
+						1,
+						0
+					],
+					[
+						115800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						116250,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						116550,
+						5,
+						0
+					],
+					[
+						116700,
+						4,
+						0
+					],
+					[
+						117000,
+						7,
+						0
+					],
+					[
+						117300,
+						4,
+						0
+					],
+					[
+						116400,
+						0,
+						0
+					],
+					[
+						116775,
+						3,
+						0
+					],
+					[
+						116850,
+						0,
+						0
+					],
+					[
+						117000,
+						3,
+						0
+					],
+					[
+						117300,
+						0,
+						0
+					],
+					[
+						116625,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						116550,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						117075,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						117225,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						117450,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						117450,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						117150,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						116850,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						116400,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						116475,
+						2,
+						0
+					],
+					[
+						116700,
+						2,
+						0
+					],
+					[
+						116925,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						117375,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						117525,
+						2,
+						0
+					],
+					[
+						117150,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						117750,
+						7,
+						0
+					],
+					[
+						117900,
+						5,
+						0
+					],
+					[
+						118200,
+						6,
+						0
+					],
+					[
+						118350,
+						7,
+						0
+					],
+					[
+						118650,
+						7,
+						0
+					],
+					[
+						117600,
+						0,
+						0
+					],
+					[
+						117900,
+						2,
+						0
+					],
+					[
+						118200,
+						2,
+						0
+					],
+					[
+						118350,
+						1,
+						0
+					],
+					[
+						118650,
+						1,
+						0
+					],
+					[
+						118050,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						118500,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						117750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						118050,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						118500,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						117600,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						118800,
+						4,
+						0
+					],
+					[
+						119100,
+						6,
+						0
+					],
+					[
+						119550,
+						5,
+						0
+					],
+					[
+						119700,
+						6,
+						0
+					],
+					[
+						118800,
+						2,
+						0
+					],
+					[
+						119100,
+						1,
+						0
+					],
+					[
+						119250,
+						2,
+						0
+					],
+					[
+						119550,
+						1,
+						0
+					],
+					[
+						119850,
+						1,
+						0
+					],
+					[
+						119400,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						118950,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						119400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						119700,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						119850,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						119250,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						118950,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						139200,
+						0,
+						0
+					],
+					[
+						139650,
+						2,
+						0
+					],
+					[
+						139950,
+						1,
+						0
+					],
+					[
+						139200,
+						5,
+						0
+					],
+					[
+						140100,
+						6,
+						0
+					],
+					[
+						139350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						139650,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						139800,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						139500,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						140100,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						140250,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						140550,
+						1,
+						0
+					],
+					[
+						141150,
+						0,
+						0
+					],
+					[
+						141300,
+						3,
+						0
+					],
+					[
+						141525,
+						1,
+						0
+					],
+					[
+						140850,
+						6,
+						0
+					],
+					[
+						140400,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						140700,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						140400,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						141000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						140850,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						141300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						141450,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						141375,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						141600,
+						2,
+						0
+					],
+					[
+						141750,
+						1,
+						0
+					],
+					[
+						142050,
+						2,
+						0
+					],
+					[
+						142500,
+						0,
+						0
+					],
+					[
+						142725,
+						3,
+						0
+					],
+					[
+						141600,
+						5,
+						0
+					],
+					[
+						142500,
+						6,
+						0
+					],
+					[
+						142050,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						142200,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						141900,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						142350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						142575,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						142650,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						142800,
+						2,
+						150
+					],
+					[
+						143025,
+						3,
+						150
+					],
+					[
+						143250,
+						1,
+						150
+					],
+					[
+						143475,
+						0,
+						150
+					],
+					[
+						143250,
+						5,
+						0
+					],
+					[
+						142800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						143700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						143700,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						143850,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						144000,
+						0,
+						0
+					],
+					[
+						144450,
+						2,
+						0
+					],
+					[
+						144750,
+						1,
+						0
+					],
+					[
+						144000,
+						5,
+						0
+					],
+					[
+						144900,
+						6,
+						0
+					],
+					[
+						144150,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						144450,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						144600,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						144300,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						144900,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						145050,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						145350,
+						1,
+						0
+					],
+					[
+						145950,
+						0,
+						0
+					],
+					[
+						146100,
+						3,
+						0
+					],
+					[
+						146325,
+						1,
+						0
+					],
+					[
+						145650,
+						6,
+						0
+					],
+					[
+						145200,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						145500,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						145200,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						145800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						145650,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						146100,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						146250,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						146175,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						146400,
+						2,
+						0
+					],
+					[
+						146550,
+						1,
+						0
+					],
+					[
+						146850,
+						2,
+						0
+					],
+					[
+						147300,
+						0,
+						0
+					],
+					[
+						147525,
+						3,
+						0
+					],
+					[
+						146400,
+						5,
+						0
+					],
+					[
+						147300,
+						6,
+						0
+					],
+					[
+						146850,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						147000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						146700,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						147150,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						147375,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						147450,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						147600,
+						2,
+						150
+					],
+					[
+						147825,
+						3,
+						150
+					],
+					[
+						148050,
+						1,
+						150
+					],
+					[
+						148275,
+						0,
+						150
+					],
+					[
+						148050,
+						5,
+						0
+					],
+					[
+						147600,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						148500,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						148500,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						148650,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						148950,
+						1,
+						0
+					],
+					[
+						149250,
+						2,
+						0
+					],
+					[
+						149550,
+						3,
+						0
+					],
+					[
+						149850,
+						3,
+						0
+					],
+					[
+						148800,
+						5,
+						0
+					],
+					[
+						149700,
+						6,
+						0
+					],
+					[
+						149250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						149400,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						149100,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						148800,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						149700,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						150000,
+						0,
+						0
+					],
+					[
+						150225,
+						3,
+						0
+					],
+					[
+						150375,
+						1,
+						0
+					],
+					[
+						150450,
+						2,
+						0
+					],
+					[
+						150600,
+						1,
+						0
+					],
+					[
+						150900,
+						2,
+						0
+					],
+					[
+						150450,
+						6,
+						0
+					],
+					[
+						150000,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						150150,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						150075,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						150300,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						150525,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						150900,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						150750,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						151050,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						151200,
+						2,
+						0
+					],
+					[
+						151650,
+						1,
+						0
+					],
+					[
+						151800,
+						2,
+						0
+					],
+					[
+						152025,
+						1,
+						0
+					],
+					[
+						152250,
+						3,
+						0
+					],
+					[
+						152325,
+						1,
+						0
+					],
+					[
+						151200,
+						5,
+						0
+					],
+					[
+						152100,
+						6,
+						0
+					],
+					[
+						151650,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						151500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						151350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						151875,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						151950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						152100,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						152175,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						152400,
+						2,
+						225
+					],
+					[
+						152700,
+						0,
+						225
+					],
+					[
+						153000,
+						1,
+						225
+					],
+					[
+						153300,
+						3,
+						225
+					],
+					[
+						152850,
+						5,
+						0
+					],
+					[
+						152400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						153300,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						153600,
+						0,
+						0
+					],
+					[
+						154050,
+						2,
+						0
+					],
+					[
+						154350,
+						1,
+						0
+					],
+					[
+						153600,
+						5,
+						0
+					],
+					[
+						154500,
+						6,
+						0
+					],
+					[
+						153750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						154050,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						154200,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						153900,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						154500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						154650,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						154800,
+						0,
+						0
+					],
+					[
+						155025,
+						3,
+						0
+					],
+					[
+						155175,
+						1,
+						0
+					],
+					[
+						155250,
+						2,
+						0
+					],
+					[
+						155400,
+						1,
+						0
+					],
+					[
+						155700,
+						2,
+						0
+					],
+					[
+						155250,
+						6,
+						0
+					],
+					[
+						154800,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						154950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						154875,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						155100,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						155325,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						155700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						155550,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						155850,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						156000,
+						2,
+						0
+					],
+					[
+						156450,
+						1,
+						0
+					],
+					[
+						156600,
+						2,
+						0
+					],
+					[
+						156825,
+						1,
+						0
+					],
+					[
+						157050,
+						3,
+						0
+					],
+					[
+						157125,
+						1,
+						0
+					],
+					[
+						156000,
+						5,
+						0
+					],
+					[
+						156900,
+						6,
+						0
+					],
+					[
+						156450,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						156300,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						156150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						156675,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						156750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						156900,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						156975,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						157200,
+						2,
+						225
+					],
+					[
+						157500,
+						0,
+						225
+					],
+					[
+						157800,
+						1,
+						225
+					],
+					[
+						158100,
+						3,
+						225
+					],
+					[
+						157650,
+						5,
+						0
+					],
+					[
+						157200,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						158100,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						158625,
+						0,
+						0
+					],
+					[
+						158925,
+						0,
+						0
+					],
+					[
+						159150,
+						1,
+						0
+					],
+					[
+						159450,
+						2,
+						150
+					],
+					[
+						159300,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						158550,
+						1,
+						0
+					],
+					[
+						158850,
+						1,
+						0
+					],
+					[
+						159000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						158700,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						158400,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						160500,
+						0,
+						0
+					],
+					[
+						160650,
+						1,
+						0
+					],
+					[
+						159900,
+						2,
+						0
+					],
+					[
+						160425,
+						3,
+						0
+					],
+					[
+						160200,
+						2,
+						0
+					],
+					[
+						159975,
+						3,
+						0
+					],
+					[
+						159750,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						160050,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						160350,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						160800,
+						2,
+						0
+					],
+					[
+						160950,
+						0,
+						0
+					],
+					[
+						160987.5,
+						1,
+						0
+					],
+					[
+						161025,
+						2,
+						150
+					],
+					[
+						161250,
+						1,
+						0
+					],
+					[
+						161400,
+						0,
+						0
+					],
+					[
+						161437.5,
+						1,
+						0
+					],
+					[
+						161475,
+						2,
+						150
+					],
+					[
+						161775,
+						1,
+						0
+					],
+					[
+						161925,
+						0,
+						0
+					],
+					[
+						161962.5,
+						1,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						163050,
+						3,
+						0
+					],
+					[
+						162900,
+						2,
+						0
+					],
+					[
+						162750,
+						1,
+						0
+					],
+					[
+						162600,
+						2,
+						0
+					],
+					[
+						162450,
+						0,
+						0
+					],
+					[
+						162300,
+						1,
+						0
+					],
+					[
+						162150,
+						1,
+						0
+					],
+					[
+						162000,
+						2,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						163425,
+						0,
+						0
+					],
+					[
+						163725,
+						0,
+						0
+					],
+					[
+						163950,
+						1,
+						0
+					],
+					[
+						164250,
+						2,
+						150
+					],
+					[
+						164100,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						163350,
+						1,
+						0
+					],
+					[
+						163650,
+						1,
+						0
+					],
+					[
+						163800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						163500,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						163200,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						165300,
+						0,
+						0
+					],
+					[
+						165450,
+						1,
+						0
+					],
+					[
+						164700,
+						2,
+						0
+					],
+					[
+						165225,
+						3,
+						0
+					],
+					[
+						165000,
+						2,
+						0
+					],
+					[
+						164775,
+						3,
+						0
+					],
+					[
+						164550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						164850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						165150,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						165600,
+						6,
+						0
+					],
+					[
+						165750,
+						4,
+						0
+					],
+					[
+						165787.5,
+						5,
+						0
+					],
+					[
+						165825,
+						6,
+						150
+					],
+					[
+						166050,
+						5,
+						0
+					],
+					[
+						166200,
+						4,
+						0
+					],
+					[
+						166237.5,
+						5,
+						0
+					],
+					[
+						166275,
+						6,
+						150
+					],
+					[
+						166575,
+						5,
+						0
+					],
+					[
+						166725,
+						4,
+						0
+					],
+					[
+						166762.5,
+						5,
+						0
+					],
+					[
+						165600,
+						2,
+						0
+					],
+					[
+						165750,
+						0,
+						0
+					],
+					[
+						165787.5,
+						1,
+						0
+					],
+					[
+						165825,
+						2,
+						150
+					],
+					[
+						166050,
+						1,
+						0
+					],
+					[
+						166200,
+						0,
+						0
+					],
+					[
+						166237.5,
+						1,
+						0
+					],
+					[
+						166275,
+						2,
+						150
+					],
+					[
+						166575,
+						1,
+						0
+					],
+					[
+						166725,
+						0,
+						0
+					],
+					[
+						166762.5,
+						1,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						167850,
+						3,
+						0
+					],
+					[
+						167700,
+						2,
+						0
+					],
+					[
+						167550,
+						1,
+						0
+					],
+					[
+						167400,
+						2,
+						0
+					],
+					[
+						167250,
+						0,
+						0
+					],
+					[
+						167100,
+						1,
+						0
+					],
+					[
+						166950,
+						1,
+						0
+					],
+					[
+						166800,
+						2,
+						0
+					],
+					[
+						167850,
+						7,
+						0
+					],
+					[
+						167700,
+						6,
+						0
+					],
+					[
+						167550,
+						5,
+						0
+					],
+					[
+						167400,
+						6,
+						0
+					],
+					[
+						167250,
+						4,
+						0
+					],
+					[
+						167100,
+						5,
+						0
+					],
+					[
+						166950,
+						5,
+						0
+					],
+					[
+						166800,
+						6,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						168000,
+						1,
+						0
+					],
+					[
+						168300,
+						1,
+						0
+					],
+					[
+						168225,
+						0,
+						0
+					],
+					[
+						168525,
+						0,
+						0
+					],
+					[
+						168600,
+						1,
+						0
+					],
+					[
+						168900,
+						1,
+						0
+					],
+					[
+						168000,
+						5,
+						0
+					],
+					[
+						168300,
+						5,
+						0
+					],
+					[
+						168600,
+						4,
+						0
+					],
+					[
+						168900,
+						6,
+						0
+					],
+					[
+						168150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						168450,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						168750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						168150,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						168450,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						168750,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						169050,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						169050,
+						2,
+						150
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						170100,
+						0,
+						0
+					],
+					[
+						169200,
+						7,
+						150
+					],
+					[
+						169425,
+						6,
+						150
+					],
+					[
+						169650,
+						5,
+						75
+					],
+					[
+						169800,
+						4,
+						225
+					],
+					[
+						170100,
+						5,
+						0
+					],
+					[
+						169500,
+						2,
+						0
+					],
+					[
+						169800,
+						2,
+						0
+					],
+					[
+						170025,
+						3,
+						0
+					],
+					[
+						169725,
+						3,
+						0
+					],
+					[
+						169350,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						169650,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						169950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						170250,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						170250,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						170400,
+						2,
+						0
+					],
+					[
+						170550,
+						0,
+						0
+					],
+					[
+						170587.5,
+						1,
+						0
+					],
+					[
+						170625,
+						2,
+						150
+					],
+					[
+						170850,
+						1,
+						0
+					],
+					[
+						171000,
+						0,
+						0
+					],
+					[
+						171037.5,
+						1,
+						0
+					],
+					[
+						171075,
+						2,
+						150
+					],
+					[
+						171375,
+						1,
+						0
+					],
+					[
+						171525,
+						0,
+						0
+					],
+					[
+						171562.5,
+						1,
+						0
+					],
+					[
+						170400,
+						5,
+						525
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						172650,
+						3,
+						0
+					],
+					[
+						172500,
+						2,
+						0
+					],
+					[
+						172350,
+						1,
+						0
+					],
+					[
+						172200,
+						2,
+						0
+					],
+					[
+						172050,
+						0,
+						0
+					],
+					[
+						171900,
+						1,
+						0
+					],
+					[
+						171750,
+						1,
+						0
+					],
+					[
+						171600,
+						2,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						172800,
+						1,
+						0
+					],
+					[
+						173100,
+						1,
+						0
+					],
+					[
+						173025,
+						0,
+						0
+					],
+					[
+						173325,
+						0,
+						0
+					],
+					[
+						173400,
+						1,
+						0
+					],
+					[
+						173700,
+						1,
+						0
+					],
+					[
+						172800,
+						5,
+						0
+					],
+					[
+						173100,
+						5,
+						0
+					],
+					[
+						173400,
+						4,
+						0
+					],
+					[
+						173700,
+						6,
+						0
+					],
+					[
+						172950,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						173250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						173550,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						172950,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						173250,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						173550,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						173850,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						173850,
+						2,
+						150
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						174900,
+						0,
+						0
+					],
+					[
+						174000,
+						7,
+						150
+					],
+					[
+						174225,
+						6,
+						150
+					],
+					[
+						174450,
+						5,
+						75
+					],
+					[
+						174600,
+						4,
+						225
+					],
+					[
+						174900,
+						5,
+						0
+					],
+					[
+						174300,
+						2,
+						0
+					],
+					[
+						174600,
+						2,
+						0
+					],
+					[
+						174825,
+						3,
+						0
+					],
+					[
+						174525,
+						3,
+						0
+					],
+					[
+						174150,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						174450,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						174750,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						175050,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						175050,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						175200,
+						2,
+						0
+					],
+					[
+						175350,
+						0,
+						0
+					],
+					[
+						175387.5,
+						1,
+						0
+					],
+					[
+						175425,
+						2,
+						150
+					],
+					[
+						175650,
+						1,
+						0
+					],
+					[
+						175800,
+						0,
+						0
+					],
+					[
+						175837.5,
+						1,
+						0
+					],
+					[
+						175875,
+						2,
+						150
+					],
+					[
+						176175,
+						1,
+						0
+					],
+					[
+						176325,
+						0,
+						0
+					],
+					[
+						176362.5,
+						1,
+						0
+					],
+					[
+						175200,
+						7,
+						525
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						177450,
+						3,
+						0
+					],
+					[
+						177300,
+						2,
+						0
+					],
+					[
+						177150,
+						1,
+						0
+					],
+					[
+						177000,
+						2,
+						0
+					],
+					[
+						176850,
+						0,
+						0
+					],
+					[
+						176700,
+						1,
+						0
+					],
+					[
+						176550,
+						1,
+						0
+					],
+					[
+						176400,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						177600,
+						1,
+						0
+					],
+					[
+						177900,
+						2,
+						0
+					],
+					[
+						178200,
+						0,
+						225
+					],
+					[
+						178500,
+						3,
+						0
+					],
+					[
+						177600,
+						5,
+						0
+					],
+					[
+						177900,
+						7,
+						0
+					],
+					[
+						178200,
+						6,
+						0
+					],
+					[
+						178500,
+						5,
+						0
+					],
+					[
+						177750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						178050,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						178050,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						177750,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						178350,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						178650,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						178650,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						178800,
+						1,
+						0
+					],
+					[
+						178950,
+						2,
+						225
+					],
+					[
+						179250,
+						0,
+						225
+					],
+					[
+						179700,
+						1,
+						0
+					],
+					[
+						178800,
+						7,
+						0
+					],
+					[
+						179100,
+						6,
+						0
+					],
+					[
+						179700,
+						7,
+						0
+					],
+					[
+						178950,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						179250,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						178875,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						179400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						179550,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						179850,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						179850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						179550,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						180150,
+						1,
+						0
+					],
+					[
+						180300,
+						2,
+						0
+					],
+					[
+						180600,
+						0,
+						225
+					],
+					[
+						180900,
+						2,
+						0
+					],
+					[
+						180000,
+						5,
+						0
+					],
+					[
+						180300,
+						4,
+						0
+					],
+					[
+						180600,
+						6,
+						0
+					],
+					[
+						180900,
+						5,
+						0
+					],
+					[
+						180000,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						180450,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						180450,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						180150,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						180750,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						181050,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						181050,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						181200,
+						0,
+						0
+					],
+					[
+						181500,
+						2,
+						0
+					],
+					[
+						181650,
+						3,
+						225
+					],
+					[
+						182100,
+						1,
+						0
+					],
+					[
+						181200,
+						7,
+						0
+					],
+					[
+						181500,
+						6,
+						0
+					],
+					[
+						181800,
+						5,
+						0
+					],
+					[
+						182100,
+						4,
+						0
+					],
+					[
+						181350,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						181350,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						181650,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						181950,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						181950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						182250,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						182250,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						182400,
+						1,
+						0
+					],
+					[
+						182700,
+						2,
+						0
+					],
+					[
+						183000,
+						0,
+						225
+					],
+					[
+						183300,
+						3,
+						0
+					],
+					[
+						182400,
+						5,
+						0
+					],
+					[
+						182700,
+						7,
+						0
+					],
+					[
+						183000,
+						6,
+						0
+					],
+					[
+						183300,
+						5,
+						0
+					],
+					[
+						182550,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						182850,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						182850,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						182550,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						183150,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						183450,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						183450,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						183600,
+						1,
+						0
+					],
+					[
+						183750,
+						2,
+						225
+					],
+					[
+						184050,
+						0,
+						225
+					],
+					[
+						184500,
+						1,
+						0
+					],
+					[
+						183600,
+						7,
+						0
+					],
+					[
+						183900,
+						6,
+						0
+					],
+					[
+						184500,
+						7,
+						0
+					],
+					[
+						183750,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						184050,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						183675,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						184200,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						184350,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						184650,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						184650,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						184350,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						184950,
+						1,
+						0
+					],
+					[
+						185100,
+						2,
+						0
+					],
+					[
+						185400,
+						0,
+						225
+					],
+					[
+						185700,
+						2,
+						0
+					],
+					[
+						184800,
+						5,
+						0
+					],
+					[
+						185100,
+						4,
+						0
+					],
+					[
+						185400,
+						6,
+						0
+					],
+					[
+						185700,
+						5,
+						0
+					],
+					[
+						184800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						185250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						185250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						184950,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						185550,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						185850,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						185850,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						186000,
+						0,
+						0
+					],
+					[
+						186300,
+						2,
+						0
+					],
+					[
+						186450,
+						3,
+						225
+					],
+					[
+						186900,
+						1,
+						0
+					],
+					[
+						186000,
+						7,
+						0
+					],
+					[
+						186300,
+						6,
+						0
+					],
+					[
+						186600,
+						5,
+						0
+					],
+					[
+						186900,
+						4,
+						0
+					],
+					[
+						186150,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						186150,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						186450,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						186750,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						186750,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						187050,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						187050,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						187200,
+						6,
+						0
+					],
+					[
+						187500,
+						5,
+						0
+					],
+					[
+						187800,
+						7,
+						0
+					],
+					[
+						188100,
+						7,
+						0
+					],
+					[
+						187200,
+						1,
+						0
+					],
+					[
+						187650,
+						1,
+						0
+					],
+					[
+						187800,
+						3,
+						75
+					],
+					[
+						187950,
+						2,
+						75
+					],
+					[
+						188100,
+						1,
+						0
+					],
+					[
+						187725,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						187650,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						187950,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						188250,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						188250,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						187350,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						188400,
+						6,
+						0
+					],
+					[
+						188700,
+						5,
+						0
+					],
+					[
+						189000,
+						6,
+						0
+					],
+					[
+						189300,
+						5,
+						0
+					],
+					[
+						188400,
+						3,
+						0
+					],
+					[
+						188700,
+						0,
+						0
+					],
+					[
+						189000,
+						2,
+						0
+					],
+					[
+						189300,
+						2,
+						0
+					],
+					[
+						188550,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						188550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						188850,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						188850,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						189150,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						189150,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						189450,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						189450,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						189600,
+						2,
+						0
+					],
+					[
+						189900,
+						1,
+						0
+					],
+					[
+						189600,
+						5,
+						0
+					],
+					[
+						190050,
+						5,
+						0
+					],
+					[
+						190200,
+						7,
+						75
+					],
+					[
+						190200,
+						3,
+						0
+					],
+					[
+						190500,
+						5,
+						0
+					],
+					[
+						190350,
+						6,
+						75
+					],
+					[
+						190500,
+						3,
+						0
+					],
+					[
+						189750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						190050,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						190350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						190650,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						190125,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						190650,
+						4,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						190800,
+						2,
+						0
+					],
+					[
+						191100,
+						1,
+						0
+					],
+					[
+						191550,
+						0,
+						0
+					],
+					[
+						191850,
+						3,
+						0
+					],
+					[
+						190800,
+						7,
+						0
+					],
+					[
+						191100,
+						4,
+						0
+					],
+					[
+						191550,
+						4,
+						0
+					],
+					[
+						191850,
+						7,
+						0
+					],
+					[
+						190950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						190950,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						191250,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						191250,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						191400,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						191400,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						191700,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						191700,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						192000,
+						6,
+						0
+					],
+					[
+						192300,
+						5,
+						0
+					],
+					[
+						192450,
+						6,
+						0
+					],
+					[
+						192750,
+						4,
+						0
+					],
+					[
+						193050,
+						6,
+						0
+					],
+					[
+						192000,
+						2,
+						0
+					],
+					[
+						192300,
+						1,
+						0
+					],
+					[
+						192600,
+						2,
+						0
+					],
+					[
+						192750,
+						1,
+						0
+					],
+					[
+						192900,
+						0,
+						75
+					],
+					[
+						192150,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						192450,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						192600,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						192900,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						192150,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						193350,
+						4,
+						0
+					],
+					[
+						193650,
+						5,
+						0
+					],
+					[
+						194100,
+						6,
+						0
+					],
+					[
+						193350,
+						2,
+						0
+					],
+					[
+						193500,
+						1,
+						0
+					],
+					[
+						193650,
+						2,
+						0
+					],
+					[
+						193950,
+						1,
+						0
+					],
+					[
+						194100,
+						0,
+						0
+					],
+					[
+						193200,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						193800,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						193800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						193500,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						193200,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						193950,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						194250,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						194250,
+						4,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						194400,
+						2,
+						0
+					],
+					[
+						194700,
+						1,
+						0
+					],
+					[
+						195000,
+						3,
+						0
+					],
+					[
+						195300,
+						1,
+						0
+					],
+					[
+						195300,
+						4,
+						75
+					],
+					[
+						194550,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						194850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						195150,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						195450,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						194400,
+						5,
+						0
+					],
+					[
+						194700,
+						6,
+						0
+					],
+					[
+						194850,
+						5,
+						0
+					],
+					[
+						195150,
+						6,
+						0
+					],
+					[
+						195000,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						194550,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						195750,
+						0,
+						0
+					],
+					[
+						195900,
+						2,
+						0
+					],
+					[
+						196050,
+						1,
+						0
+					],
+					[
+						196500,
+						2,
+						0
+					],
+					[
+						196650,
+						1,
+						0
+					],
+					[
+						196650,
+						6,
+						0
+					],
+					[
+						195600,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						196500,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						196200,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						196350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						195600,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						196200,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						195900,
+						6,
+						0
+					],
+					[
+						195750,
+						5,
+						0
+					],
+					[
+						196050,
+						5,
+						0
+					],
+					[
+						196350,
+						6,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						197100,
+						3,
+						0
+					],
+					[
+						197400,
+						2,
+						0
+					],
+					[
+						197700,
+						1,
+						0
+					],
+					[
+						196800,
+						0,
+						0
+					],
+					[
+						196800,
+						7,
+						0
+					],
+					[
+						197100,
+						4,
+						0
+					],
+					[
+						197400,
+						6,
+						0
+					],
+					[
+						197700,
+						5,
+						0
+					],
+					[
+						196950,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						196950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						197250,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						197250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						197550,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						197550,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						197850,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						197850,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						198000,
+						1,
+						0
+					],
+					[
+						198300,
+						2,
+						0
+					],
+					[
+						198600,
+						0,
+						0
+					],
+					[
+						198900,
+						2,
+						0
+					],
+					[
+						198000,
+						6,
+						0
+					],
+					[
+						198300,
+						5,
+						0
+					],
+					[
+						198600,
+						4,
+						0
+					],
+					[
+						198900,
+						7,
+						0
+					],
+					[
+						198150,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						198150,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						198450,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						198450,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						198750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						198750,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						199050,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						199050,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						199200,
+						2,
+						0
+					],
+					[
+						199500,
+						1,
+						0
+					],
+					[
+						199800,
+						3,
+						0
+					],
+					[
+						200100,
+						3,
+						0
+					],
+					[
+						199200,
+						5,
+						0
+					],
+					[
+						199800,
+						7,
+						75
+					],
+					[
+						199950,
+						6,
+						75
+					],
+					[
+						200100,
+						5,
+						0
+					],
+					[
+						199350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						199650,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						199650,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						199725,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						199950,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						200250,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						200250,
+						4,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						200400,
+						2,
+						0
+					],
+					[
+						200700,
+						1,
+						0
+					],
+					[
+						201000,
+						2,
+						0
+					],
+					[
+						201300,
+						1,
+						0
+					],
+					[
+						200400,
+						7,
+						0
+					],
+					[
+						200700,
+						4,
+						0
+					],
+					[
+						201000,
+						6,
+						0
+					],
+					[
+						201300,
+						6,
+						0
+					],
+					[
+						200550,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						200550,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						200850,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						200850,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						201150,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						201150,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						201450,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						201450,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						201750,
+						7,
+						0
+					],
+					[
+						202050,
+						6,
+						0
+					],
+					[
+						202500,
+						5,
+						0
+					],
+					[
+						201600,
+						2,
+						0
+					],
+					[
+						201900,
+						1,
+						0
+					],
+					[
+						202200,
+						2,
+						0
+					],
+					[
+						202350,
+						1,
+						0
+					],
+					[
+						202500,
+						0,
+						75
+					],
+					[
+						201750,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						202050,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						201900,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						202200,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						201600,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						202350,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						202650,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						202950,
+						4,
+						0
+					],
+					[
+						203250,
+						5,
+						0
+					],
+					[
+						203550,
+						7,
+						0
+					],
+					[
+						202950,
+						2,
+						0
+					],
+					[
+						203100,
+						1,
+						0
+					],
+					[
+						203250,
+						2,
+						0
+					],
+					[
+						203550,
+						1,
+						0
+					],
+					[
+						203700,
+						0,
+						0
+					],
+					[
+						203850,
+						2,
+						0
+					],
+					[
+						202800,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						203400,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						203100,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						203400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						202800,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						203700,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						203850,
+						4,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						204150,
+						3,
+						0
+					],
+					[
+						204450,
+						2,
+						0
+					],
+					[
+						204750,
+						0,
+						0
+					],
+					[
+						205050,
+						2,
+						0
+					],
+					[
+						204300,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						204600,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						204900,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						204000,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						205050,
+						6,
+						0
+					],
+					[
+						204000,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						204150,
+						7,
+						0
+					],
+					[
+						204450,
+						6,
+						0
+					],
+					[
+						204750,
+						4,
+						0
+					],
+					[
+						204900,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						204600,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						204300,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						205350,
+						0,
+						0
+					],
+					[
+						205650,
+						1,
+						0
+					],
+					[
+						205800,
+						0,
+						0
+					],
+					[
+						206100,
+						2,
+						0
+					],
+					[
+						205500,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						205950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						206250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						206100,
+						6,
+						0
+					],
+					[
+						206250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						205650,
+						5,
+						0
+					],
+					[
+						205800,
+						4,
+						0
+					],
+					[
+						205950,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						205500,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						205350,
+						4,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						216000,
+						1,
+						0
+					],
+					[
+						216150,
+						1,
+						0
+					],
+					[
+						216300,
+						1,
+						0
+					],
+					[
+						216450,
+						2,
+						0
+					],
+					[
+						216600,
+						2,
+						0
+					],
+					[
+						216750,
+						2,
+						0
+					],
+					[
+						216900,
+						2,
+						0
+					],
+					[
+						217050,
+						2,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						217200,
+						0,
+						0
+					],
+					[
+						217350,
+						0,
+						0
+					],
+					[
+						217500,
+						0,
+						0
+					],
+					[
+						217650,
+						3,
+						0
+					],
+					[
+						217800,
+						3,
+						0
+					],
+					[
+						217950,
+						3,
+						0
+					],
+					[
+						218100,
+						3,
+						0
+					],
+					[
+						218250,
+						3,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						218400,
+						2,
+						0
+					],
+					[
+						218550,
+						2,
+						0
+					],
+					[
+						218700,
+						2,
+						0
+					],
+					[
+						218850,
+						0,
+						0
+					],
+					[
+						219000,
+						0,
+						0
+					],
+					[
+						219150,
+						0,
+						0
+					],
+					[
+						219300,
+						0,
+						0
+					],
+					[
+						219450,
+						0,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						219600,
+						1,
+						0
+					],
+					[
+						219750,
+						1,
+						0
+					],
+					[
+						219900,
+						1,
+						0
+					],
+					[
+						220050,
+						3,
+						0
+					],
+					[
+						220200,
+						3,
+						0
+					],
+					[
+						220350,
+						3,
+						0
+					],
+					[
+						220500,
+						3,
+						0
+					],
+					[
+						220650,
+						3,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						220800,
+						1,
+						0
+					],
+					[
+						220950,
+						1,
+						0
+					],
+					[
+						221100,
+						1,
+						0
+					],
+					[
+						221250,
+						2,
+						0
+					],
+					[
+						221400,
+						2,
+						0
+					],
+					[
+						221550,
+						2,
+						0
+					],
+					[
+						221700,
+						2,
+						0
+					],
+					[
+						221850,
+						2,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						222000,
+						0,
+						0
+					],
+					[
+						222150,
+						0,
+						0
+					],
+					[
+						222300,
+						0,
+						0
+					],
+					[
+						222450,
+						3,
+						0
+					],
+					[
+						222600,
+						3,
+						0
+					],
+					[
+						222750,
+						3,
+						0
+					],
+					[
+						222900,
+						3,
+						0
+					],
+					[
+						223050,
+						3,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						223200,
+						2,
+						0
+					],
+					[
+						223350,
+						2,
+						0
+					],
+					[
+						223500,
+						2,
+						0
+					],
+					[
+						223650,
+						0,
+						0
+					],
+					[
+						223800,
+						0,
+						0
+					],
+					[
+						223950,
+						0,
+						0
+					],
+					[
+						224100,
+						0,
+						0
+					],
+					[
+						224250,
+						0,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						224400,
+						1,
+						0
+					],
+					[
+						224550,
+						1,
+						0
+					],
+					[
+						224700,
+						1,
+						0
+					],
+					[
+						224850,
+						3,
+						0
+					],
+					[
+						225000,
+						3,
+						0
+					],
+					[
+						225150,
+						3,
+						0
+					],
+					[
+						225300,
+						3,
+						0
+					],
+					[
+						225450,
+						3,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						225750,
+						1,
+						0
+					],
+					[
+						226050,
+						3,
+						0
+					],
+					[
+						226350,
+						1,
+						0
+					],
+					[
+						226650,
+						1,
+						0
+					],
+					[
+						226200,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						225900,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						226500,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						225600,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						225600,
+						6,
+						1125
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						226800,
+						3,
+						225
+					],
+					[
+						227100,
+						1,
+						0
+					],
+					[
+						227400,
+						3,
+						0
+					],
+					[
+						227700,
+						1,
+						0
+					],
+					[
+						227250,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						227550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						227850,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						226800,
+						4,
+						1125
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						228000,
+						7,
+						375
+					],
+					[
+						228450,
+						5,
+						375
+					],
+					[
+						228900,
+						7,
+						225
+					],
+					[
+						228000,
+						1,
+						225
+					],
+					[
+						228525,
+						1,
+						0
+					],
+					[
+						228600,
+						2,
+						75
+					],
+					[
+						228900,
+						1,
+						0
+					],
+					[
+						228450,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						228750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						229050,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						229200,
+						5,
+						0
+					],
+					[
+						229500,
+						5,
+						0
+					],
+					[
+						229800,
+						5,
+						0
+					],
+					[
+						230100,
+						5,
+						0
+					],
+					[
+						229200,
+						2,
+						0
+					],
+					[
+						229500,
+						1,
+						0
+					],
+					[
+						229800,
+						1,
+						0
+					],
+					[
+						230100,
+						0,
+						0
+					],
+					[
+						229350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						229350,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						229650,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						229650,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						229950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						229950,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						230250,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						230250,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						230550,
+						6,
+						0
+					],
+					[
+						230850,
+						6,
+						0
+					],
+					[
+						231150,
+						6,
+						0
+					],
+					[
+						231300,
+						5,
+						0
+					],
+					[
+						230400,
+						2,
+						225
+					],
+					[
+						230700,
+						1,
+						225
+					],
+					[
+						231000,
+						0,
+						225
+					],
+					[
+						231300,
+						2,
+						225
+					],
+					[
+						231000,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						231450,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						230700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						230400,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						231825,
+						5,
+						150
+					],
+					[
+						232650,
+						5,
+						0
+					],
+					[
+						232200,
+						3,
+						75
+					],
+					[
+						232350,
+						2,
+						75
+					],
+					[
+						232500,
+						0,
+						75
+					],
+					[
+						232650,
+						1,
+						75
+					],
+					[
+						231825,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						232125,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						231600,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						231900,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						231600,
+						4,
+						150
+					],
+					[
+						232050,
+						7,
+						150
+					],
+					[
+						232275,
+						4,
+						150
+					],
+					[
+						232500,
+						6,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						232950,
+						5,
+						0
+					],
+					[
+						233100,
+						6,
+						0
+					],
+					[
+						233400,
+						7,
+						0
+					],
+					[
+						233700,
+						7,
+						0
+					],
+					[
+						232800,
+						0,
+						0
+					],
+					[
+						233100,
+						1,
+						0
+					],
+					[
+						233250,
+						0,
+						0
+					],
+					[
+						233475,
+						1,
+						0
+					],
+					[
+						233025,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						232950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						233175,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						232875,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						233400,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						233325,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						233550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						233625,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						233550,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						233250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						232800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						233850,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						233700,
+						0,
+						0
+					],
+					[
+						233850,
+						3,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						234000,
+						6,
+						225
+					],
+					[
+						234300,
+						7,
+						225
+					],
+					[
+						234600,
+						6,
+						225
+					],
+					[
+						234900,
+						4,
+						225
+					],
+					[
+						234000,
+						0,
+						225
+					],
+					[
+						234300,
+						2,
+						225
+					],
+					[
+						234600,
+						1,
+						225
+					],
+					[
+						234900,
+						3,
+						225
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						235350,
+						1,
+						0
+					],
+					[
+						235650,
+						3,
+						0
+					],
+					[
+						235950,
+						1,
+						0
+					],
+					[
+						236250,
+						1,
+						0
+					],
+					[
+						235800,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						235500,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						236100,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						235200,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						235200,
+						6,
+						900
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						236400,
+						3,
+						225
+					],
+					[
+						236700,
+						1,
+						0
+					],
+					[
+						237000,
+						3,
+						0
+					],
+					[
+						237300,
+						1,
+						0
+					],
+					[
+						236850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						237150,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						237450,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						236400,
+						4,
+						1050
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						237600,
+						7,
+						375
+					],
+					[
+						238050,
+						5,
+						375
+					],
+					[
+						238500,
+						7,
+						225
+					],
+					[
+						237600,
+						1,
+						225
+					],
+					[
+						238125,
+						1,
+						0
+					],
+					[
+						238200,
+						2,
+						75
+					],
+					[
+						238500,
+						1,
+						0
+					],
+					[
+						238050,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						238350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						238650,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						238800,
+						5,
+						0
+					],
+					[
+						239100,
+						5,
+						0
+					],
+					[
+						239400,
+						5,
+						0
+					],
+					[
+						239700,
+						5,
+						0
+					],
+					[
+						238800,
+						2,
+						0
+					],
+					[
+						239100,
+						1,
+						0
+					],
+					[
+						239400,
+						1,
+						0
+					],
+					[
+						239700,
+						0,
+						0
+					],
+					[
+						238950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						238950,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						239250,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						239250,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						239550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						239550,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						239850,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						239850,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						240150,
+						6,
+						0
+					],
+					[
+						240450,
+						6,
+						0
+					],
+					[
+						240750,
+						6,
+						0
+					],
+					[
+						240900,
+						5,
+						0
+					],
+					[
+						240000,
+						2,
+						225
+					],
+					[
+						240300,
+						1,
+						225
+					],
+					[
+						240600,
+						0,
+						225
+					],
+					[
+						240900,
+						2,
+						225
+					],
+					[
+						240600,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						241050,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						240300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						240000,
+						5,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						241425,
+						5,
+						150
+					],
+					[
+						242250,
+						5,
+						0
+					],
+					[
+						241800,
+						3,
+						75
+					],
+					[
+						241950,
+						2,
+						75
+					],
+					[
+						242100,
+						0,
+						75
+					],
+					[
+						242250,
+						1,
+						75
+					],
+					[
+						241425,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						241725,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						241200,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						241500,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						241200,
+						4,
+						150
+					],
+					[
+						241650,
+						7,
+						150
+					],
+					[
+						241875,
+						4,
+						150
+					],
+					[
+						242100,
+						6,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						242550,
+						5,
+						0
+					],
+					[
+						242700,
+						6,
+						0
+					],
+					[
+						243000,
+						7,
+						0
+					],
+					[
+						243300,
+						7,
+						0
+					],
+					[
+						242400,
+						0,
+						0
+					],
+					[
+						242700,
+						1,
+						0
+					],
+					[
+						242850,
+						0,
+						0
+					],
+					[
+						243075,
+						1,
+						0
+					],
+					[
+						242625,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						242550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						242775,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						242475,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						243000,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						242925,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						243150,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						243225,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						243150,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						242850,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						242400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						243450,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						243300,
+						0,
+						0
+					],
+					[
+						243450,
+						3,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						243600,
+						6,
+						225
+					],
+					[
+						243900,
+						7,
+						225
+					],
+					[
+						244200,
+						6,
+						225
+					],
+					[
+						244500,
+						4,
+						225
+					],
+					[
+						243600,
+						0,
+						225
+					],
+					[
+						243900,
+						2,
+						225
+					],
+					[
+						244200,
+						1,
+						225
+					],
+					[
+						244500,
+						3,
+						225
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						244950,
+						6,
+						0
+					],
+					[
+						245250,
+						6,
+						0
+					],
+					[
+						245550,
+						6,
+						0
+					],
+					[
+						245850,
+						6,
+						0
+					],
+					[
+						244800,
+						1,
+						0
+					],
+					[
+						245550,
+						1,
+						0
+					],
+					[
+						245850,
+						3,
+						0
+					],
+					[
+						245250,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						244950,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						245100,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						245100,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						245400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						245700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						244800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						245400,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						245700,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						246300,
+						7,
+						0
+					],
+					[
+						246900,
+						7,
+						0
+					],
+					[
+						246000,
+						5,
+						0
+					],
+					[
+						246600,
+						5,
+						0
+					],
+					[
+						246000,
+						1,
+						0
+					],
+					[
+						246600,
+						3,
+						0
+					],
+					[
+						246900,
+						2,
+						0
+					],
+					[
+						246150,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						246150,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						246450,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						246450,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						246750,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						246750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						247050,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						247050,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						248100,
+						7,
+						0
+					],
+					[
+						247350,
+						5,
+						0
+					],
+					[
+						247800,
+						6,
+						0
+					],
+					[
+						247200,
+						1,
+						0
+					],
+					[
+						248100,
+						2,
+						0
+					],
+					[
+						247350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						247500,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						247650,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						247950,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						248250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						248250,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						247800,
+						0,
+						0
+					],
+					[
+						247650,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						247200,
+						4,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						248550,
+						6,
+						0
+					],
+					[
+						248850,
+						6,
+						0
+					],
+					[
+						249150,
+						6,
+						0
+					],
+					[
+						249450,
+						6,
+						0
+					],
+					[
+						248400,
+						2,
+						225
+					],
+					[
+						248700,
+						0,
+						225
+					],
+					[
+						249000,
+						1,
+						225
+					],
+					[
+						249300,
+						3,
+						225
+					],
+					[
+						249000,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						249300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						248700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						248400,
+						4,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						250050,
+						5,
+						0
+					],
+					[
+						250350,
+						5,
+						0
+					],
+					[
+						250650,
+						5,
+						0
+					],
+					[
+						249600,
+						7,
+						0
+					],
+					[
+						249600,
+						0,
+						0
+					],
+					[
+						250050,
+						0,
+						0
+					],
+					[
+						250350,
+						3,
+						0
+					],
+					[
+						249900,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						249900,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						249750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						249750,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						250200,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						250200,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						250500,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						250500,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						250650,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						250950,
+						5,
+						0
+					],
+					[
+						251250,
+						5,
+						0
+					],
+					[
+						251550,
+						5,
+						0
+					],
+					[
+						251850,
+						5,
+						0
+					],
+					[
+						251850,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						251700,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						251475,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						251625,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						251400,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						251250,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						251025,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						251175,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						250950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						250800,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						251700,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						251400,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						251100,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						250800,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						250875,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						251100,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						251325,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						251550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						251775,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						251925,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						252150,
+						7,
+						0
+					],
+					[
+						252600,
+						6,
+						0
+					],
+					[
+						252900,
+						5,
+						0
+					],
+					[
+						252000,
+						0,
+						0
+					],
+					[
+						252300,
+						2,
+						0
+					],
+					[
+						252600,
+						2,
+						0
+					],
+					[
+						252900,
+						0,
+						0
+					],
+					[
+						252450,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						252750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						252150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						253050,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						253050,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						252750,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						252450,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						252300,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						252000,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						253350,
+						5,
+						0
+					],
+					[
+						253650,
+						7,
+						0
+					],
+					[
+						253950,
+						5,
+						0
+					],
+					[
+						254100,
+						6,
+						0
+					],
+					[
+						253350,
+						0,
+						0
+					],
+					[
+						253650,
+						2,
+						0
+					],
+					[
+						253950,
+						1,
+						0
+					],
+					[
+						254100,
+						2,
+						0
+					],
+					[
+						253800,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						253800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						254250,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						254250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						253500,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						253500,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						253200,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						253200,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						254550,
+						6,
+						0
+					],
+					[
+						254850,
+						6,
+						0
+					],
+					[
+						255150,
+						6,
+						0
+					],
+					[
+						255450,
+						6,
+						0
+					],
+					[
+						254400,
+						1,
+						0
+					],
+					[
+						255150,
+						1,
+						0
+					],
+					[
+						255450,
+						3,
+						0
+					],
+					[
+						254850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						254550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						254700,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						254700,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						255000,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						255300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						254400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						255000,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						255300,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						255900,
+						7,
+						0
+					],
+					[
+						256500,
+						7,
+						0
+					],
+					[
+						255600,
+						5,
+						0
+					],
+					[
+						256200,
+						5,
+						0
+					],
+					[
+						255600,
+						1,
+						0
+					],
+					[
+						256200,
+						3,
+						0
+					],
+					[
+						256500,
+						2,
+						0
+					],
+					[
+						255750,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						255750,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						256050,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						256050,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						256350,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						256350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						256650,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						256650,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						257700,
+						7,
+						0
+					],
+					[
+						256950,
+						5,
+						0
+					],
+					[
+						257400,
+						6,
+						0
+					],
+					[
+						256800,
+						1,
+						0
+					],
+					[
+						257700,
+						2,
+						0
+					],
+					[
+						256950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						257100,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						257250,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						257550,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						257850,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						257850,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						257400,
+						0,
+						0
+					],
+					[
+						257250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						256800,
+						4,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						258150,
+						6,
+						0
+					],
+					[
+						258450,
+						6,
+						0
+					],
+					[
+						258750,
+						6,
+						0
+					],
+					[
+						259050,
+						6,
+						0
+					],
+					[
+						258000,
+						2,
+						225
+					],
+					[
+						258300,
+						0,
+						225
+					],
+					[
+						258600,
+						1,
+						225
+					],
+					[
+						258900,
+						3,
+						225
+					],
+					[
+						258600,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						258900,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						258300,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						258000,
+						4,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						259650,
+						5,
+						0
+					],
+					[
+						259950,
+						5,
+						0
+					],
+					[
+						260250,
+						5,
+						0
+					],
+					[
+						259200,
+						7,
+						0
+					],
+					[
+						259200,
+						0,
+						0
+					],
+					[
+						259650,
+						0,
+						0
+					],
+					[
+						259950,
+						3,
+						0
+					],
+					[
+						259500,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						259500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						259350,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						259800,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						260100,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						260100,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						259350,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						259800,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						260250,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						260550,
+						5,
+						0
+					],
+					[
+						260850,
+						5,
+						0
+					],
+					[
+						261150,
+						5,
+						0
+					],
+					[
+						261450,
+						5,
+						0
+					],
+					[
+						261525,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						261450,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						261375,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						261300,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						261150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						261075,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						261225,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						261000,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						260925,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						260850,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						260700,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						260625,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						260775,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						260550,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						260475,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						260400,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						261300,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						261000,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						260700,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						260400,
+						7,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						261750,
+						7,
+						0
+					],
+					[
+						262200,
+						6,
+						0
+					],
+					[
+						262500,
+						5,
+						0
+					],
+					[
+						261600,
+						0,
+						0
+					],
+					[
+						261900,
+						2,
+						0
+					],
+					[
+						262200,
+						2,
+						0
+					],
+					[
+						262500,
+						0,
+						0
+					],
+					[
+						262050,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						262350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						261750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						262650,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						262650,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						262350,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						262050,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						261900,
+						5,
+						0,
+						"Camo"
+					],
+					[
+						261600,
+						6,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						262950,
+						5,
+						0
+					],
+					[
+						263250,
+						7,
+						0
+					],
+					[
+						263550,
+						5,
+						0
+					],
+					[
+						263700,
+						6,
+						0
+					],
+					[
+						262950,
+						0,
+						0
+					],
+					[
+						263250,
+						2,
+						0
+					],
+					[
+						263550,
+						1,
+						0
+					],
+					[
+						263700,
+						2,
+						0
+					],
+					[
+						263400,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						263400,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						263850,
+						7,
+						0,
+						"Camo"
+					],
+					[
+						263850,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						263100,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						263100,
+						6,
+						0,
+						"Camo"
+					],
+					[
+						262800,
+						4,
+						0,
+						"Camo"
+					],
+					[
+						262800,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						273600,
+						0,
+						0
+					],
+					[
+						273900,
+						3,
+						0
+					],
+					[
+						274200,
+						1,
+						0
+					],
+					[
+						274500,
+						0,
+						0
+					],
+					[
+						273750,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						274050,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						274350,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						274650,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						275250,
+						3,
+						0
+					],
+					[
+						275400,
+						0,
+						0
+					],
+					[
+						275550,
+						1,
+						0
+					],
+					[
+						274800,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						274950,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						275100,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						275700,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						275850,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						276150,
+						0,
+						0
+					],
+					[
+						276450,
+						2,
+						0
+					],
+					[
+						276750,
+						3,
+						0
+					],
+					[
+						276000,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						276300,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						276600,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						276900,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						277050,
+						0,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						277500,
+						0,
+						0
+					],
+					[
+						277800,
+						2,
+						0
+					],
+					[
+						278100,
+						3,
+						0
+					],
+					[
+						277350,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						277200,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						277650,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						277950,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						278250,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						278400,
+						0,
+						0
+					],
+					[
+						278700,
+						3,
+						0
+					],
+					[
+						279000,
+						1,
+						0
+					],
+					[
+						279300,
+						0,
+						0
+					],
+					[
+						278550,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						278850,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						279150,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						279450,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						280050,
+						3,
+						0
+					],
+					[
+						280200,
+						0,
+						0
+					],
+					[
+						280350,
+						1,
+						0
+					],
+					[
+						280650,
+						1,
+						0
+					],
+					[
+						279600,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						279750,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						279900,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						280500,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						280800,
+						6,
+						0
+					],
+					[
+						280800,
+						2,
+						0
+					],
+					[
+						280950,
+						4,
+						0
+					],
+					[
+						280950,
+						0,
+						0
+					],
+					[
+						281100,
+						3,
+						0
+					],
+					[
+						281100,
+						7,
+						0
+					],
+					[
+						281250,
+						6,
+						0
+					],
+					[
+						281400,
+						4,
+						0
+					],
+					[
+						281250,
+						2,
+						0
+					],
+					[
+						281400,
+						0,
+						0
+					],
+					[
+						281550,
+						7,
+						0
+					],
+					[
+						281550,
+						3,
+						0
+					],
+					[
+						281700,
+						2,
+						0
+					],
+					[
+						281850,
+						0,
+						0
+					],
+					[
+						281700,
+						6,
+						0
+					],
+					[
+						281850,
+						4,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						283050,
+						2,
+						0
+					],
+					[
+						283050,
+						6,
+						0
+					],
+					[
+						282000,
+						7,
+						0
+					],
+					[
+						282000,
+						3,
+						0
+					],
+					[
+						282150,
+						6,
+						0
+					],
+					[
+						282150,
+						2,
+						0
+					],
+					[
+						282300,
+						0,
+						0
+					],
+					[
+						282300,
+						4,
+						0
+					],
+					[
+						282450,
+						3,
+						0
+					],
+					[
+						282450,
+						7,
+						0
+					],
+					[
+						282600,
+						6,
+						0
+					],
+					[
+						282750,
+						4,
+						0
+					],
+					[
+						282600,
+						2,
+						0
+					],
+					[
+						282750,
+						0,
+						0
+					],
+					[
+						282900,
+						7,
+						0
+					],
+					[
+						282900,
+						3,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						283200,
+						0,
+						0
+					],
+					[
+						284100,
+						0,
+						0
+					],
+					[
+						283950,
+						2,
+						0
+					],
+					[
+						283500,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						283350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						283650,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						283800,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						284250,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						284700,
+						1,
+						0
+					],
+					[
+						285000,
+						0,
+						0
+					],
+					[
+						285450,
+						0,
+						0
+					],
+					[
+						284400,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						284550,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						284850,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						285150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						285300,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						285750,
+						2,
+						0
+					],
+					[
+						286050,
+						3,
+						0
+					],
+					[
+						285900,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						285600,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						286200,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						286350,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						286500,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						286650,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						286800,
+						1,
+						0
+					],
+					[
+						287100,
+						2,
+						0
+					],
+					[
+						287400,
+						3,
+						0
+					],
+					[
+						287250,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						286950,
+						3,
+						0,
+						"Camo"
+					],
+					[
+						287550,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						287700,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						287850,
+						3,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						288000,
+						0,
+						0
+					],
+					[
+						288900,
+						0,
+						0
+					],
+					[
+						288750,
+						2,
+						0
+					],
+					[
+						288300,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						288150,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						288450,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						288600,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						289050,
+						1,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						289500,
+						1,
+						0
+					],
+					[
+						289800,
+						0,
+						0
+					],
+					[
+						290250,
+						0,
+						0
+					],
+					[
+						289200,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						289350,
+						0,
+						0,
+						"Camo"
+					],
+					[
+						289650,
+						2,
+						0,
+						"Camo"
+					],
+					[
+						289950,
+						1,
+						0,
+						"Camo"
+					],
+					[
+						290100,
+						2,
+						0,
+						"Camo"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						290400,
+						3,
+						0
+					],
+					[
+						290550,
+						2,
+						0
+					],
+					[
+						290700,
+						1,
+						0
+					],
+					[
+						290400,
+						7,
+						0
+					],
+					[
+						290550,
+						6,
+						0
+					],
+					[
+						290700,
+						5,
+						0
+					],
+					[
+						290850,
+						7,
+						0
+					],
+					[
+						291000,
+						6,
+						0
+					],
+					[
+						291150,
+						5,
+						0
+					],
+					[
+						290850,
+						3,
+						0
+					],
+					[
+						291000,
+						2,
+						0
+					],
+					[
+						291150,
+						1,
+						0
+					],
+					[
+						291300,
+						7,
+						0
+					],
+					[
+						291450,
+						6,
+						0
+					],
+					[
+						291300,
+						3,
+						0
+					],
+					[
+						291450,
+						2,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						291600,
+						1,
+						0
+					],
+					[
+						291600,
+						5,
+						0
+					],
+					[
+						291750,
+						7,
+						0
+					],
+					[
+						291750,
+						3,
+						0
+					],
+					[
+						291900,
+						6,
+						0
+					],
+					[
+						291900,
+						2,
+						0
+					],
+					[
+						292050,
+						1,
+						0
+					],
+					[
+						292050,
+						5,
+						0
+					],
+					[
+						292200,
+						7,
+						0
+					],
+					[
+						292200,
+						3,
+						0
+					],
+					[
+						292350,
+						6,
+						0
+					],
+					[
+						292350,
+						2,
+						0
+					],
+					[
+						292500,
+						1,
+						0
+					],
+					[
+						292500,
+						5,
+						0
+					],
+					[
+						292650,
+						7,
+						0
+					],
+					[
+						292650,
+						3,
+						0
+					]
+				],
+				"altAnim": true,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						292800,
+						1,
+						525
+					],
+					[
+						292800,
+						5,
+						525
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [],
+		"player2": "blaze-flippy",
+		"player3": null,
+		"splashSkin": "noteSplashes",
+		"song": "Unhinged",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"validScore": true,
+		"stage": "nevada-burnt",
+		"bpm": 200,
+		"speed": 3.2
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FLIPPY Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				82
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FLP M UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FLP M DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-73,
+				85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FLP M LEFT"
+		},
+		{
+			"offsets": [
+				49,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FLP M RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Happy-Flippy",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "blood-suicide",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		120
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
